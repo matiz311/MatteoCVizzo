@@ -460,7 +460,7 @@
       "summary": "pagina CV alimentata dai Markdown e dai testi versionati in HardSkill, con archivio JSON, workflow GitHub Pages, portfolio e vista di stampa; realizzazione assistita da AI.",
       "url": "https://github.com/matiz311/HardSkill/blob/main/progetti/personali/cv-dinamico.md",
       "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/personali/cv-dinamico.md",
-      "status": "CV dinamico implementato con realizzazione assistita da AI; build e controlli verificati. Pubblicazione predisposta tramite una seconda repository pubblica con sorgenti HardSkill privati. Repository pubblica creata; secret di collegamento e attivazione Pages ancora da completare. La precedente pagina privata Sites resta conservata."
+      "status": "CV dinamico pubblicato su GitHub Pages il 30 ottobre 2026, con realizzazione assistita da AI; build, controlli e navigazione verificati. HardSkill resta privata. La copia automatica delle revisioni successive è predisposta, ma il collegamento tramite token richiede ancora una correzione dell'autenticazione. La precedente pagina privata Sites resta conservata."
     },
     {
       "id": "carpedice",
@@ -2891,11 +2891,11 @@
   "metadata": {
     "repository": "matiz311/HardSkill",
     "branch": "main",
-    "sourceRevision": "4553ec5763b5e8c6f06072949d113e4bebf0975f",
-    "sourceCommittedAt": "2026-10-30T08:30:05Z",
-    "syncedAt": "2026-10-30T08:31:22.934Z",
+    "sourceRevision": "f9c3f4989d49bd896521b1ff1554ecf34a17a11d",
+    "sourceCommittedAt": "2026-10-30T08:48:08Z",
+    "syncedAt": "2026-10-30T08:48:11.126Z",
     "documentCount": 55,
-    "sourceUrl": "https://github.com/matiz311/HardSkill/commit/4553ec5763b5e8c6f06072949d113e4bebf0975f",
+    "sourceUrl": "https://github.com/matiz311/HardSkill/commit/f9c3f4989d49bd896521b1ff1554ecf34a17a11d",
     "methodologyUrl": "https://github.com/matiz311/HardSkill/blob/main/fonti/revisione-chat-2026-10-29.md"
   },
   "presentation": {
@@ -2994,7 +2994,7 @@
       "skills": "Le competenze indicano ambiti documentati. Uso operativo, formazione e progetti personali sono distinti nelle fonti.",
       "projects": "Per i progetti recenti, contributo personale, supporto AI e stato sono descritti nelle relative schede.",
       "cases": "I casi sono anonimizzati. Attività svolte, proposte e risultati da confermare conservano lo stato riportato nelle fonti.",
-      "footer": "I testi del curriculum, le sezioni e le etichette provengono dai dati versionati in HardSkill. Le modifiche alla repository generano una nuova versione della pagina."
+      "footer": "I testi del curriculum, le sezioni e le etichette provengono dai dati versionati in HardSkill. La revisione indicata identifica i contenuti di questa versione."
     }
   }
 }
