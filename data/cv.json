@@ -1,0 +1,3000 @@
+{
+  "schemaVersion": 1,
+  "profile": {
+    "name": "Matteo Cannizzo",
+    "title": "Network Security Engineer",
+    "location": "Sassuolo, Emilia-Romagna",
+    "summary": "Network Security Engineer in ambito delivery, con esperienza nella gestione e nel troubleshooting di infrastrutture di rete e sicurezza. Mi occupo di firewall, VPN, NAC e autenticazione, migrazioni e aggiornamenti, coordinamento tecnico e documentazione degli interventi.",
+    "story": "Il mio percorso è iniziato nel Network Help Desk e nelle attività SOC/Security. Dal 2025 opero in ambito delivery. Affianco al lavoro tecnico progetti software personali orientati ad automazione, analisi delle configurazioni e triage.",
+    "links": [
+      {
+        "label": "matteo-cannizzo",
+        "url": "https://www.linkedin.com/in/matteo-cannizzo/"
+      },
+      {
+        "label": "matiz311",
+        "url": "https://github.com/matiz311"
+      }
+    ],
+    "extras": {
+      "nationality": "Italiana",
+      "drivingLicense": "B",
+      "photo": "assets/profile.png"
+    }
+  },
+  "experiences": [
+    {
+      "id": "experience-0",
+      "employer": "Lantech Longwave S.p.A.",
+      "role": "Security Network Engineer, Delivery",
+      "period": "Ottobre 2025 – presente",
+      "description": "Attività di delivery e supporto su progetti di sicurezza di rete: raccolta prerequisiti, analisi delle configurazioni, pianificazione, implementazione, validazione e documentazione.",
+      "bullets": [
+        "Migrazioni e aggiornamenti di firewall, inclusi prerequisiti, backup, finestre, verifiche e rollback.",
+        "Configurazione e troubleshooting di Palo Alto Networks, Fortinet e Cisco.",
+        "VPN IPsec site-to-site e remote access; analisi di routing, NAT e identificazione dei peer.",
+        "Integrazione di autenticazione con Cisco ISE, Aruba ClearPass, directory e portali Guest.",
+        "Coordinamento di call tecniche, referenti, accessi e attività on-site.",
+        "Preparazione di relazioni tecniche, piani d’intervento e consuntivi."
+      ],
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/esperienze/README.md"
+    },
+    {
+      "id": "experience-1",
+      "employer": "Lantech Longwave S.p.A.",
+      "role": "Network Help Desk / SOC e Security Operations",
+      "period": "Febbraio 2021 – settembre 2025",
+      "description": "Percorso iniziato nell’Help Desk Network e proseguito in ambito SOC/Security. Il CV del 2024 documenta il ruolo Junior Network Engineer dal 28 febbraio 2021 al 1 luglio 2023 e il passaggio a SOC Operator dal 1 luglio 2023. Gestione richieste e incidenti, analisi di log e configurazioni, troubleshooting di firewall, routing e switching.",
+      "bullets": [
+        "Gestione ticket e raccolta evidenze.",
+        "Analisi di policy, oggetti, NAT, routing, VPN e flussi applicativi.",
+        "Supporto a remediation e revisione delle configurazioni firewall.",
+        "Coordinamento con gruppi tecnici e referenti cliente.",
+        "Documentazione di aggiornamenti e soluzioni."
+      ],
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/esperienze/README.md"
+    },
+    {
+      "id": "experience-2",
+      "employer": "Randstad Italia",
+      "role": "Junior Network Engineer presso Lantech Longwave",
+      "period": "Gennaio 2021 – febbraio 2021",
+      "description": "Formazione iniziale e affiancamento al team tecnico su processi e tecnologie aziendali.",
+      "bullets": [],
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/esperienze/README.md"
+    },
+    {
+      "id": "experience-3",
+      "employer": "",
+      "role": "Grafica di produzione",
+      "period": "",
+      "description": "Esperienza riportata nel CV: preparazione di materiali grafici e uso di Adobe Illustrator e CorelDRAW.",
+      "bullets": [],
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/esperienze/README.md"
+    }
+  ],
+  "skillGroups": [
+    {
+      "id": "palo-alto-networks",
+      "title": "Palo Alto Networks",
+      "items": [
+        "PAN-OS e Panorama: gestione di configurazioni, policy e oggetti.",
+        "Migrazione di configurazioni XML e verifica di compatibilità.",
+        "GlobalProtect e VPN IPsec; analisi di interfacce, routing e NAT.",
+        "Aggiornamenti software e verifiche pre/post intervento.",
+        "Esperienza su PA-220/440/460/820/1410/1420/3430/3250 e serie PA-500 nell’ambito di analisi e migrazioni."
+      ],
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/competenze/network-security.md"
+    },
+    {
+      "id": "fortinet",
+      "title": "Fortinet",
+      "items": [
+        "FortiGate/FortiOS: policy, NAT, routing, VPN e troubleshooting.",
+        "FortiManager e FortiAnalyzer per gestione centralizzata e analisi.",
+        "Cluster HA e pianificazione aggiornamenti.",
+        "FortiNAC: aggiornamento e verifiche in alta affidabilità.",
+        "FSSO: utenti/gruppi, refresh e filtri subnet."
+      ],
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/competenze/network-security.md"
+    },
+    {
+      "id": "cisco",
+      "title": "Cisco",
+      "items": [
+        "ASA, Firepower/FTD e FXOS: analisi configurazioni e troubleshooting.",
+        "Cisco ISE: upgrade, nodi distribuiti, autenticazione e policy.",
+        "Routing, switching, ACL e gestione dei flussi."
+      ],
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/competenze/network-security.md"
+    },
+    {
+      "id": "aruba",
+      "title": "Aruba",
+      "items": [
+        "ClearPass Policy Manager: upgrade e troubleshooting.",
+        "Guest, sponsor, OTP/e-mail, captive portal, MAC caching, enforcement e CoA.",
+        "Integrazione con apparati di accesso e directory."
+      ],
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/competenze/network-security.md"
+    },
+    {
+      "id": "altre-tecnologie",
+      "title": "Altre tecnologie",
+      "items": [
+        "Sophos Email Security, Cisco Meraki MX, Extreme VOSS e switching HPE."
+      ],
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/competenze/network-security.md"
+    },
+    {
+      "id": "temi-trasversali",
+      "title": "Temi trasversali",
+      "items": [
+        "Regole di sicurezza e mappatura delle policy.",
+        "NAT, routing, DNS/DHCP, VLAN e connettività WAN.",
+        "VPN site-to-site, dial-up e accesso remoto.",
+        "Autenticazione, RADIUS, captive portal, Guest e NAC.",
+        "Analisi log e stato delle sessioni.",
+        "Upgrade, migrazioni, change planning, test e rollback."
+      ],
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/competenze/network-security.md"
+    },
+    {
+      "id": "evidenze-e-approfondimenti",
+      "title": "Evidenze e approfondimenti",
+      "items": [
+        "Identità, NAC, directory e Guest: ISE distribuito, migrazione ClearPass, LDAP/sponsor, FSSO e integrazioni.",
+        "Routing, switching e diagnostica: rotte, PPPoE/NAT, IPsec/eBGP, LACP e prove.",
+        "Indice dei casi con stato ed esito: manutenzione FortiManager, cluster Palo Alto, ASA/HA/ARP, advisory e policy tra vendor."
+      ],
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/competenze/network-security.md"
+    },
+    {
+      "id": "evidenze-operative-aggiunte-dall-export-2021-2026",
+      "title": "Evidenze operative aggiunte dall'export 2021–2026",
+      "items": [
+        "Palo Alto/Panorama: configurazione log forwarding, gestione policy e certificati, installazione licenze e allineamento Dynamic Updates nel cluster.",
+        "Cisco: gestione operativa di ESA/SMA, quarantena, filtri e report, oltre alle attività ASA/Firepower già descritte.",
+        "Fortinet: porting di configurazioni Zywall e WatchGuard verso FortiGate, installazione e test; attività proxy e FortiWeb circoscritte ai consuntivi.",
+        "Aruba/Cisco Meraki: troubleshooting Guest/RADIUS; ClearPass per accessi amministrativi TACACS+/RADIUS e profili di autorizzazione.",
+        "Riverbed/RiOS: diagnostica, aggiornamento e pass-through in scenari di connettività e ottimizzazione WAN.",
+        "Sophos Central e sicurezza della posta: verifiche su policy, directory, mailbox, endpoint ed escalation."
+      ],
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/competenze/network-security.md"
+    },
+    {
+      "id": "casi-complessi-a-supporto-delle-competenze",
+      "title": "Casi complessi a supporto delle competenze",
+      "items": [
+        "Hardening ASA: dal laboratorio alla produzione.",
+        "Firepower: restore, recovery e RMA.",
+        "Remediation firewall IaaS e controllo della segmentazione.",
+        "Federazione Entra ID/Palo Alto e test SLO.",
+        "FortiWeb: migrazione hardware/VM e verifica servizi."
+      ],
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/competenze/network-security.md"
+    },
+    {
+      "id": "automazione-e-sviluppo",
+      "title": "Competenze — Automazione e sviluppo",
+      "items": [
+        "Python per scripting, trasformazione dati e strumenti di supporto alle attività di rete.",
+        "XML per analisi e trasformazione di configurazioni firewall.",
+        "JSON e YAML per dati strutturati e configurazioni.",
+        "Git/GitHub per versionamento e gestione progetti.",
+        "Ansible: esecuzione e troubleshooting di playbook, variabili e facts.",
+        "Docker/Docker Compose per container e ambienti di sviluppo."
+      ],
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/competenze/automation-e-sviluppo.md"
+    },
+    {
+      "id": "basi-formative",
+      "title": "Basi formative",
+      "items": [
+        "Dal diploma e dal CV: C/C++, C#, Java, PHP, JavaScript, SQL, HTML e CSS. Da presentare come conoscenze formative o di base, non come specializzazione professionale."
+      ],
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/competenze/automation-e-sviluppo.md"
+    }
+  ],
+  "softSkills": [
+    {
+      "name": "Ragionamento diagnostico",
+      "behavior": "Confrontare sintomi, log e prove; separare il recupero del link dal residuo problema applicativo",
+      "evidence": [
+        {
+          "label": "Fibra/LACP",
+          "url": "https://github.com/matiz311/HardSkill/blob/main/progetti/casi/2026-lacp-fibra-prestazioni.md"
+        }
+      ]
+    },
+    {
+      "name": "Precisione nell'analisi",
+      "behavior": "Distinguere HA funzionante dal problema MAC/ARP e chiedere documentazione sulla causa",
+      "evidence": [
+        {
+          "label": "ASA post-upgrade",
+          "url": "https://github.com/matiz311/HardSkill/blob/main/progetti/casi/2026-cisco-asa-ha-arp.md"
+        }
+      ]
+    },
+    {
+      "name": "Pianificazione",
+      "behavior": "Prevedere LAB, fasi, integrazioni, finestre e verifiche prima del passaggio dei nodi",
+      "evidence": [
+        {
+          "label": "Upgrade ISE",
+          "url": "https://github.com/matiz311/HardSkill/blob/main/progetti/casi/2025-cisco-ise-distribuito.md"
+        }
+      ]
+    },
+    {
+      "name": "Coordinamento tecnico",
+      "behavior": "Allineare referenti e dipendenze, mantenendo distinta la validazione finale",
+      "evidence": [
+        {
+          "label": "Migrazione IPsec/eBGP",
+          "url": "https://github.com/matiz311/HardSkill/blob/main/progetti/casi/2026-ipsec-ebgp.md"
+        }
+      ]
+    },
+    {
+      "name": "Comunicazione ed escalation",
+      "behavior": "Raccogliere evidenze, sollecitare il supporto e chiarire i limiti dei workaround",
+      "evidence": [
+        {
+          "label": "Cluster Palo Alto",
+          "url": "https://github.com/matiz311/HardSkill/blob/main/progetti/casi/2025-paloalto-ha-escalation.md"
+        },
+        {
+          "label": "FortiClient",
+          "url": "https://github.com/matiz311/HardSkill/blob/main/progetti/casi/2025-forticlient-certificati.md"
+        }
+      ]
+    },
+    {
+      "name": "Collaborazione",
+      "behavior": "Isolare una differenza di configurazione e completare la correzione con un collega",
+      "evidence": [
+        {
+          "label": "LDAP sponsor",
+          "url": "https://github.com/matiz311/HardSkill/blob/main/progetti/casi/2026-clearpass-ldap-sponsor.md"
+        }
+      ]
+    },
+    {
+      "name": "Cura della documentazione",
+      "behavior": "Separare pianificato, eseguito e rendicontato; correggere i dati dell'attività e dichiarare l'esito",
+      "evidence": [
+        {
+          "label": "PPPoE/NAT/routing",
+          "url": "https://github.com/matiz311/HardSkill/blob/main/progetti/casi/2026-pppoe-nat-routing.md"
+        }
+      ]
+    },
+    {
+      "name": "Iniziativa e requisiti",
+      "behavior": "Tradurre esigenze operative in strumenti; richiedere confronti riproducibili e funzionamento deterministico",
+      "evidence": [
+        {
+          "label": "Triage, NetworkSnapshots e WinNAT-UI",
+          "url": "https://github.com/matiz311/HardSkill/blob/main/progetti/personali/strumenti-network-security.md"
+        }
+      ]
+    },
+    {
+      "name": "Apprendimento",
+      "behavior": "Usare un percorso di studio, consolidare gli argomenti e richiedere riscontri documentali",
+      "evidence": [
+        {
+          "label": "Formazione DevNet",
+          "url": "https://github.com/matiz311/HardSkill/blob/main/formazione/devnet-e-laboratori.md"
+        },
+        {
+          "label": "integrazione Guest",
+          "url": "https://github.com/matiz311/HardSkill/blob/main/progetti/casi/2026-clearpass-unifi-guest.md"
+        }
+      ]
+    },
+    {
+      "name": "Organizzazione e relazioni esterne",
+      "behavior": "Definire requisiti logistici, calendario e comunicazioni con organizzatori e possibili sedi",
+      "evidence": [
+        {
+          "label": "CarpeDice",
+          "url": "https://github.com/matiz311/HardSkill/blob/main/progetti/personali/carpedice.md"
+        }
+      ]
+    },
+    {
+      "name": "Collaborazione e apprendimento sul campo",
+      "behavior": "Affiancamenti espliciti nel 2021 e confronto con colleghi nelle verifiche successive, senza dedurre autonomia iniziale",
+      "evidence": []
+    },
+    {
+      "name": "Gestione delle escalation",
+      "behavior": "Raccolta dump/tech-support, aggiornamento casi e test richiesti dai vendor",
+      "evidence": []
+    },
+    {
+      "name": "Comunicazione con il cliente",
+      "behavior": "Richiesta di campioni e riscontri, riepiloghi delle analisi, sessioni con utenti onsite",
+      "evidence": []
+    },
+    {
+      "name": "Controllo del change",
+      "behavior": "Rollback documentato quando i flussi attesi non transitano; ripresa dell'attività con test successivi",
+      "evidence": []
+    },
+    {
+      "name": "Reporting e precisione",
+      "behavior": "Report antiphishing/ESA e registrazioni separate per configurazione, verifica ed esito",
+      "evidence": []
+    }
+  ],
+  "education": [
+    {
+      "name": "HPE Aruba Networking — Advanced Product Certified ClearPass, 2026.",
+      "category": "Certificazioni e corsi",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/formazione/README.md"
+    },
+    {
+      "name": "CCNA 200-301: percorso Cisco CCNAv7 completato nel 2021 con Randstad Technologies Italia, E-Forhum e Lantech Longwave.",
+      "category": "Certificazioni e corsi",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/formazione/README.md"
+    },
+    {
+      "name": "Cisco — Introduction to Cybersecurity, giugno 2021.",
+      "category": "Certificazioni e corsi",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/formazione/README.md"
+    },
+    {
+      "name": "Tecnico Informatico, I.I.S. Alessandro Volta, Sassuolo — diploma 2019, voto 88/100.",
+      "category": "Istruzione",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/formazione/README.md"
+    },
+    {
+      "name": "Formazione su reti, modello OSI, TCP/UDP, programmazione, progettazione web e database.",
+      "category": "Istruzione",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/formazione/README.md"
+    }
+  ],
+  "languages": [
+    "Italiano: madrelingua.",
+    "Inglese: ascolto B2, lettura B2, scrittura B1, produzione orale B1, interazione orale A2."
+  ],
+  "projects": [
+    {
+      "id": "pa500-config-adapter",
+      "name": "PA500 Config Adapter",
+      "category": "Reti e sicurezza",
+      "summary": "applicazione web locale JavaScript per adattare configurazioni XML PAN-OS, con strumenti Python di build/test.",
+      "url": "https://github.com/matiz311/pa500-config-adapter",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/personali/strumenti-network-security.md",
+      "status": "strumento presente; test e configurazioni sintetiche documentati. La validazione sull'apparato destinatario resta una verifica specifica, non sostituita dal portfolio."
+    },
+    {
+      "id": "winnat-ui",
+      "name": "WinNAT-UI",
+      "category": "Reti e sicurezza",
+      "summary": "progetto per gestire e analizzare informazioni relative a Windows NAT.",
+      "url": "https://github.com/matiz311/WinNAT-UI",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/personali/strumenti-network-security.md",
+      "status": "applicazione e distribuzione binaria documentate; il README segnala collaudi interattivi Windows ancora necessari. La numerazione della release non è ricopiata perché il README contiene indicazioni non allineate."
+    },
+    {
+      "id": "networksnapshots",
+      "name": "NetworkSnapshots",
+      "category": "Reti e sicurezza",
+      "summary": "confronto di snapshot e differenze tra configurazioni.",
+      "url": "https://github.com/matiz311/NetworkSnapshots",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/personali/strumenti-network-security.md",
+      "status": "script e test offline documentati; copertura API incompleta e compatibilità con apparati reali da validare. Nessun dato cliente è riprodotto qui."
+    },
+    {
+      "id": "triage",
+      "name": "Triage",
+      "category": "Reti e sicurezza",
+      "summary": "flusso per triage ticket che raccoglie informazioni mancanti e struttura soluzioni parziali, con obiettivo deterministico senza dipendenza da AI.",
+      "url": "https://github.com/matiz311/Triage",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/personali/strumenti-network-security.md",
+      "status": "prototipo advisory; integrazione automatica al portale e uso in produzione non attestati."
+    },
+    {
+      "id": "moira",
+      "name": "Moira",
+      "category": "Reti e sicurezza",
+      "summary": "MVP personale per il lifecycle Cisco ASA/FTD; inventario, evidenze e decisioni tracciabili. Il README corrente distingue componenti disponibili, dry run e integrazioni in backlog.",
+      "url": "https://github.com/matiz311/Moira",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/personali/strumenti-network-security.md",
+      "status": "MVP; upgrade reali non implementati, qualificazione produttiva e varie integrazioni in backlog. Le tecnologie previste in precedenza non sono considerate tutte operative."
+    },
+    {
+      "id": "kairos",
+      "name": "Kairos",
+      "category": "Progetti software e creativi",
+      "summary": "progetto di videogioco, ambientazione, personaggi e risorse grafiche.",
+      "url": "https://github.com/matiz311/Kairos",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/personali/kairos.md",
+      "status": "progetto documentale e creativo in sviluppo; motore di gioco non scelto secondo il README. Non è presentato come videogioco pubblicato o come esperienza professionale di sviluppo videogiochi. Contenuti e strumenti sono realizzati anche con supporto AI."
+    },
+    {
+      "id": "organizzaretask",
+      "name": "OrganizzareTask",
+      "category": "Progetti software e creativi",
+      "summary": "repository personale per organizzare attività e pianificazione; contenuti operativi non riprodotti.",
+      "url": "https://github.com/matiz311/OrganizzareTask",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/progetti-personali.md",
+      "status": null
+    },
+    {
+      "id": "ricercacasa",
+      "name": "RicercaCasa",
+      "category": "Progetti software e creativi",
+      "summary": "progetto personale per organizzare e confrontare ricerche immobiliari.",
+      "url": "https://github.com/matiz311/RicercaCasa",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/progetti-personali.md",
+      "status": null
+    },
+    {
+      "id": "ddlefficenza",
+      "name": "DDLEfficenza",
+      "category": "Progetti software e creativi",
+      "summary": "raccolta e sviluppo di proposte di efficientamento normativo.",
+      "url": "https://github.com/matiz311/DDLEfficenza",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/progetti-personali.md",
+      "status": null
+    },
+    {
+      "id": "osservatoriopoliticoitalia",
+      "name": "OsservatorioPoliticoItalia",
+      "category": "Progetti software e creativi",
+      "summary": "progetto personale di raccolta e analisi di informazioni politiche italiane.",
+      "url": "https://github.com/matiz311/OsservatorioPoliticoItalia",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/progetti-personali.md",
+      "status": null
+    },
+    {
+      "id": "curriculum-web-dinamico",
+      "name": "Curriculum web dinamico",
+      "category": "Progetti software e creativi",
+      "summary": "pagina CV alimentata dai Markdown e dai testi versionati in HardSkill, con archivio JSON, workflow GitHub Pages, portfolio e vista di stampa; realizzazione assistita da AI.",
+      "url": "https://github.com/matiz311/HardSkill/blob/main/progetti/personali/cv-dinamico.md",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/personali/cv-dinamico.md",
+      "status": "CV dinamico implementato con realizzazione assistita da AI; build e controlli verificati. Pubblicazione predisposta tramite una seconda repository pubblica con sorgenti HardSkill privati. Repository pubblica creata; secret di collegamento e attivazione Pages ancora da completare. La precedente pagina privata Sites resta conservata."
+    },
+    {
+      "id": "carpedice",
+      "name": "CarpeDice",
+      "category": "Community",
+      "summary": "gruppo ludico non profit di Sassuolo. Organizzazione di incontri, partecipazione a eventi, ricerca di spazi e collaborazione con realtà locali.",
+      "url": null,
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/personali/carpedice.md",
+      "status": "attività continuativa; singole collaborazioni e iniziative possono essere ancora in proposta."
+    },
+    {
+      "id": "integrazioni-zapier-shopify-ed-excel",
+      "name": "Integrazioni Zapier, Shopify ed Excel",
+      "category": "Laboratori documentati nel CV",
+      "summary": "automazione personale del 2021 tra Shopify ed Excel con Zapier e trasformazioni Python.",
+      "url": "https://github.com/matiz311/HardSkill/blob/main/progetti/personali/laboratori-cv.md",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/personali/laboratori-cv.md",
+      "status": "integrazione descritta come realizzata nel CV; operatività attuale non verificata."
+    },
+    {
+      "id": "vpn-domestica-con-windows-server",
+      "name": "VPN domestica con Windows Server",
+      "category": "Laboratori documentati nel CV",
+      "summary": "laboratorio del 2020 con Windows Server 2019, RRAS e SNAT.",
+      "url": "https://github.com/matiz311/HardSkill/blob/main/progetti/personali/laboratori-cv.md",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/personali/laboratori-cv.md",
+      "status": "configurazione di base descritta nel CV; non è un servizio produttivo attuale."
+    },
+    {
+      "id": "server-ftp-e-web-con-xampp-e-php",
+      "name": "Server FTP e Web con XAMPP e PHP",
+      "category": "Laboratori documentati nel CV",
+      "summary": "laboratorio 2018–2019 su FTP/HTTP, PHP e aggiornamento dinamico delle risorse.",
+      "url": "https://github.com/matiz311/HardSkill/blob/main/progetti/personali/laboratori-cv.md",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/personali/laboratori-cv.md",
+      "status": "configurazione e sviluppo descritti nel CV; disponibilità attuale non verificata."
+    }
+  ],
+  "cases": [
+    {
+      "id": "2026-pppoe-nat-routing",
+      "title": "Supporto su PPPoE, NAT e routing",
+      "year": "2026",
+      "period": "Ottobre 2026.",
+      "classification": "Caso/ticket professionale — supporto.",
+      "status": "Intervento risolutivo dichiarato; chiusura amministrativa non verificata.",
+      "context": "Sessione di supporto al cliente su configurazioni di connettività. Verificare la coerenza tra PPPoE, NAT, rete e routing.",
+      "activities": [
+        "Analisi e verifica delle configurazioni con il cliente.",
+        "Descrizione dell'intervento e della soluzione da registrare per la chiusura del ticket."
+      ],
+      "technologies": "PPPoE, NAT, configurazioni di rete, routing.",
+      "skills": "Troubleshooting collaborativo, sintesi dell'attività e verifica dell'esito.",
+      "sections": [
+        {
+          "title": "Contesto e problema",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Sessione di supporto al cliente su configurazioni di connettività. Verificare la coerenza tra PPPoE, NAT, rete e routing."
+            }
+          ]
+        },
+        {
+          "title": "Attività svolta",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "Analisi e verifica delle configurazioni con il cliente.",
+                "Descrizione dell'intervento e della soluzione da registrare per la chiusura del ticket."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tecnologie e competenze",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Tecnologie: PPPoE, NAT, configurazioni di rete, routing."
+            },
+            {
+              "type": "paragraph",
+              "text": "Competenze documentate: Troubleshooting collaborativo, sintesi dell'attività e verifica dell'esito."
+            }
+          ]
+        },
+        {
+          "title": "Esito e limiti",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "L'utente ha confermato che la sola sessione è stata risolutiva e che il ticket era da chiudere. La registrazione nei sistemi aziendali non viene dedotta da questa conferma."
+            }
+          ]
+        }
+      ],
+      "outcome": "L'utente ha confermato che la sola sessione è stata risolutiva e che il ticket era da chiudere. La registrazione nei sistemi aziendali non viene dedotta da questa conferma.",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/casi/2026-pppoe-nat-routing.md"
+    },
+    {
+      "id": "2026-migrazione-policy-asa-panorama",
+      "title": "Preparazione della migrazione di policy ASA verso Panorama",
+      "year": "2026",
+      "period": "Ottobre 2026.",
+      "classification": "Caso professionale — preparazione e verifica di artefatti.",
+      "status": "Preparazione/revisione svolte; deployment da confermare.",
+      "context": "Trasposizione di ACL e oggetti tra piattaforme firewall. Mappare azioni, servizi, liste e riferimenti senza introdurre corrispondenze implicite.",
+      "activities": [
+        "Definizione dei criteri di conversione permit/deny e della struttura dei comandi CLI.",
+        "Definizione del flusso: censimento oggetti mancanti, normalizzazione nomi, controllo riferimenti e generazione policy.",
+        "Revisione dei vincoli dell'output tabellare e delle applicazioni/servizi da verificare."
+      ],
+      "technologies": "Cisco ASA, Palo Alto Panorama, Excel, oggetti e servizi, ACL.",
+      "skills": "Analisi di equivalenze e differenze tra vendor, qualità dei dati, requisiti di conversione.",
+      "sections": [
+        {
+          "title": "Contesto e problema",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Trasposizione di ACL e oggetti tra piattaforme firewall. Mappare azioni, servizi, liste e riferimenti senza introdurre corrispondenze implicite."
+            }
+          ]
+        },
+        {
+          "title": "Attività svolta",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "Definizione dei criteri di conversione permit/deny e della struttura dei comandi CLI.",
+                "Definizione del flusso: censimento oggetti mancanti, normalizzazione nomi, controllo riferimenti e generazione policy.",
+                "Revisione dei vincoli dell'output tabellare e delle applicazioni/servizi da verificare."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tecnologie e competenze",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Tecnologie: Cisco ASA, Palo Alto Panorama, Excel, oggetti e servizi, ACL."
+            },
+            {
+              "type": "paragraph",
+              "text": "Competenze documentate: Analisi di equivalenze e differenze tra vendor, qualità dei dati, requisiti di conversione."
+            }
+          ]
+        },
+        {
+          "title": "Esito e limiti",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Requisiti e revisione degli artefatti assistiti documentati; importazione e collaudo in produzione non confermati."
+            }
+          ]
+        }
+      ],
+      "outcome": "Requisiti e revisione degli artefatti assistiti documentati; importazione e collaudo in produzione non confermati.",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/casi/2026-migrazione-policy-asa-panorama.md"
+    },
+    {
+      "id": "2026-lacp-fibra-prestazioni",
+      "title": "Firewall e core switch: fibra, LACP e prove di prestazione",
+      "year": "2026",
+      "period": "Maggio–giugno 2026.",
+      "classification": "Caso professionale — Delivery e troubleshooting.",
+      "status": "Collegamento stabilizzato e nuova migrazione eseguita secondo export; collaudo applicativo complessivo da confermare.",
+      "context": "Installazione di nuovi firewall e collegamenti al core di rete. Link instabili e prestazioni anomale richiedevano verifiche fisiche e logiche.",
+      "activities": [
+        "Analisi di interfacce, contatori, log STP e aggregazione LACP.",
+        "Confronto della fibra installata con le ottiche e sostituzione della tratta non coerente.",
+        "Prove iperf e confronto con la baseline; separazione tra recupero del collegamento e residui problemi applicativi SQL."
+      ],
+      "technologies": "Palo Alto Networks, Aruba/HPE, fibra e SFP, LACP, STP/MSTP, iperf.",
+      "skills": "Diagnostica dal livello fisico all'applicazione, lettura contatori, test comparativi.",
+      "sections": [
+        {
+          "title": "Contesto e problema",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Installazione di nuovi firewall e collegamenti al core di rete. Link instabili e prestazioni anomale richiedevano verifiche fisiche e logiche."
+            }
+          ]
+        },
+        {
+          "title": "Attività svolta",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "Analisi di interfacce, contatori, log STP e aggregazione LACP.",
+                "Confronto della fibra installata con le ottiche e sostituzione della tratta non coerente.",
+                "Prove iperf e confronto con la baseline; separazione tra recupero del collegamento e residui problemi applicativi SQL."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tecnologie e competenze",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Tecnologie: Palo Alto Networks, Aruba/HPE, fibra e SFP, LACP, STP/MSTP, iperf."
+            },
+            {
+              "type": "paragraph",
+              "text": "Competenze documentate: Diagnostica dal livello fisico all'applicazione, lettura contatori, test comparativi."
+            }
+          ]
+        },
+        {
+          "title": "Esito e limiti",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Dopo la sostituzione della fibra, collegamento stabile e miglioramento delle misure riportati dall'utente. La latenza SQL e il cutover restavano da validare nelle fonti iniziali; l'export successivamente letto documenta una migrazione eseguita il 22 giugno, senza attestare separatamente la chiusura di ogni anomalia SQL."
+            }
+          ]
+        },
+        {
+          "title": "Ricostruzione completa della fase di migrazione nell'export",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "Preparazione hardware/software, configurazione HA e interfacce aggregate; installazione in due CED e verifiche preliminari.",
+                "Prima migrazione e monitoraggio, seguiti da troubleshooting della latenza e rollback al cluster precedente.",
+                "Nuove prove e confronto con supporto Palo Alto e collega Network per distinguere configurazione e problema fisico.",
+                "Il 12 giugno viene identificata un'incompatibilità delle fibre; il 15 giugno la sostituzione con fibre multimodali è seguita da banda indicata come stabile.",
+                "Il 22 giugno risultano nuova sostituzione delle fibre, migrazione firewall, monitoraggio, riavvio servizi e controlli post-migrazione."
+              ]
+            },
+            {
+              "type": "paragraph",
+              "text": "Perché è un caso complesso: una migrazione apparentemente legata al firewall ha richiesto diagnosi tra livello fisico, aggregazione, prestazioni e servizi. Il rollback e il confronto con la baseline hanno permesso di separare i problemi."
+            }
+          ]
+        }
+      ],
+      "outcome": "Dopo la sostituzione della fibra, collegamento stabile e miglioramento delle misure riportati dall'utente. La latenza SQL e il cutover restavano da validare nelle fonti iniziali; l'export successivamente letto documenta una migrazione eseguita il 22 giugno, senza attestare separatamente la chiusura di ogni anomalia SQL.",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/casi/2026-lacp-fibra-prestazioni.md"
+    },
+    {
+      "id": "2026-ipsec-ebgp",
+      "title": "Migrazione di connettività verso IPsec ed eBGP",
+      "year": "2026",
+      "period": "Aprile–maggio 2026; aggiornamento del resoconto a ottobre 2026.",
+      "classification": "Caso professionale — Delivery.",
+      "status": "Raggiungibilità attraverso i nuovi tunnel verificata secondo il resoconto dell'utente; cutover e rollback pianificati, esecuzione da confermare.",
+      "context": "Migrazione multi-sito da una connettività esistente verso tunnel IPsec con routing dinamico. Attivare i tunnel e validare il servizio prima della dismissione del percorso precedente.",
+      "activities": [
+        "Pianificazione per fasi con pilota, controlli di raggiungibilità, errori applicativi e tempi di risposta.",
+        "Analisi di tunnel attivi con sessione BGP non established e verifica di indirizzamento e parametri di peering.",
+        "Coordinamento con la controparte e mantenimento del percorso precedente durante le verifiche.",
+        "Test congiunti di raggiungibilità attraverso i nuovi tunnel IPsec con BGP, riportati con esito positivo nel successivo resoconto.",
+        "Pianificazione del passaggio del traffico mediante i criteri di importazione delle rotte BGP, con ripristino del percorso OSPF previsto nel piano di rollback."
+      ],
+      "technologies": "Palo Alto Networks, IPsec site-to-site, eBGP, OSPF, routing, migrazione WAN.",
+      "skills": "Diagnosi VPN/routing dinamico, test di raggiungibilità, change per fasi, pianificazione del rollback, coordinamento di dipendenze esterne e comunicazione tecnica.",
+      "sections": [
+        {
+          "title": "Contesto e problema",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Migrazione multi-sito da una connettività esistente verso tunnel IPsec con routing dinamico. Attivare i tunnel e validare il servizio prima della dismissione del percorso precedente."
+            }
+          ]
+        },
+        {
+          "title": "Attività svolta",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "Pianificazione per fasi con pilota, controlli di raggiungibilità, errori applicativi e tempi di risposta.",
+                "Analisi di tunnel attivi con sessione BGP non established e verifica di indirizzamento e parametri di peering.",
+                "Coordinamento con la controparte e mantenimento del percorso precedente durante le verifiche.",
+                "Test congiunti di raggiungibilità attraverso i nuovi tunnel IPsec con BGP, riportati con esito positivo nel successivo resoconto.",
+                "Pianificazione del passaggio del traffico mediante i criteri di importazione delle rotte BGP, con ripristino del percorso OSPF previsto nel piano di rollback."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tecnologie e competenze",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Tecnologie: Palo Alto Networks, IPsec site-to-site, eBGP, OSPF, routing, migrazione WAN."
+            },
+            {
+              "type": "paragraph",
+              "text": "Competenze documentate: Diagnosi VPN/routing dinamico, test di raggiungibilità, change per fasi, pianificazione del rollback, coordinamento di dipendenze esterne e comunicazione tecnica."
+            }
+          ]
+        },
+        {
+          "title": "Esito e limiti",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Le fonti iniziali riportavano l'attivazione dei tunnel senza confermare il completamento del peering BGP e del cutover. Nel resoconto fornito dall'utente a ottobre 2026, i test con BGP sui nuovi tunnel IPsec hanno confermato la raggiungibilità della controparte. La migrazione dei flussi e l'eventuale rollback sono descritti come attività da eseguire; non è documentato un collaudo applicativo completo né l'esecuzione del cutover o del rollback."
+            }
+          ]
+        },
+        {
+          "title": "Conferme puntuali dell'export",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Le note registrano analisi della redistribuzione tra virtual router, configurazione IPsec/eBGP il 30 aprile, attivazione e avvio del peering il 6 maggio, verifiche e correzione dei parametri di autenticazione del peering a maggio. Il 27 ottobre è registrato il test di raggiungibilità attraverso i tunnel. La sequenza sostiene il lavoro operativo su configurazione e test, mantenendo distinto il successivo cutover."
+            },
+            {
+              "type": "paragraph",
+              "text": "Perché è un caso complesso: collaborazione con una controparte esterna, coesistenza dei percorsi e dipendenze tra VPN, routing dinamico e servizio applicativo."
+            }
+          ]
+        }
+      ],
+      "outcome": "Le fonti iniziali riportavano l'attivazione dei tunnel senza confermare il completamento del peering BGP e del cutover. Nel resoconto fornito dall'utente a ottobre 2026, i test con BGP sui nuovi tunnel IPsec hanno confermato la raggiungibilità della controparte. La migrazione dei flussi e l'eventuale rollback sono descritti come attività da eseguire; non è documentato un collaudo applicativo completo né l'esecuzione del cutover o del rollback.",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/casi/2026-ipsec-ebgp.md"
+    },
+    {
+      "id": "2026-fortiweb-hardware-vm",
+      "title": "FortiWeb: migrazione da appliance hardware a VM",
+      "year": "2026",
+      "period": "Aprile 2026.",
+      "classification": "caso professionale anonimizzato.",
+      "status": "Messa in produzione della VM e verifica dei servizi esposti documentate.",
+      "context": "Trasferimento delle configurazioni WAF dalla piattaforma hardware a una macchina virtuale.",
+      "activities": [
+        "Kickoff, verifica release/licenze e confronto delle configurazioni delle due piattaforme.",
+        "Allineamento tra FortiWeb in produzione e FortiWeb VM.",
+        "Revisione con il cliente e disabilitazione di policy e profili precedenti da rimuovere dal perimetro operativo.",
+        "Analisi dei log di sistema e confronto con la documentazione per l'errore relativo ai certificati del cloud vendor.",
+        "Messa in produzione della VM e controllo dei servizi pubblicati."
+      ],
+      "technologies": "",
+      "skills": "FortiWeb, migrazione hardware/VM, confronto configurazioni, revisione policy, licensing, troubleshooting e controlli post-change.",
+      "sections": [
+        {
+          "title": "Contesto e obiettivo",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Trasferimento delle configurazioni WAF dalla piattaforma hardware a una macchina virtuale."
+            }
+          ]
+        },
+        {
+          "title": "Elementi di complessità",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "La migrazione richiedeva allineamento di configurazioni, release e licenze, revisione di policy/profili precedenti e gestione di un errore di verifica certificati verso i servizi del vendor."
+            }
+          ]
+        },
+        {
+          "title": "Contributo documentato di Matteo",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "Kickoff, verifica release/licenze e confronto delle configurazioni delle due piattaforme.",
+                "Allineamento tra FortiWeb in produzione e FortiWeb VM.",
+                "Revisione con il cliente e disabilitazione di policy e profili precedenti da rimuovere dal perimetro operativo.",
+                "Analisi dei log di sistema e confronto con la documentazione per l'errore relativo ai certificati del cloud vendor.",
+                "Messa in produzione della VM e controllo dei servizi pubblicati."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Esito e limiti",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Il consuntivo del 22 aprile documenta la messa in produzione e le verifiche. Non contiene un esito esplicito separato sulla risoluzione definitiva dell'errore certificati né misure di efficacia del WAF."
+            }
+          ]
+        },
+        {
+          "title": "Competenze dimostrate",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "FortiWeb, migrazione hardware/VM, confronto configurazioni, revisione policy, licensing, troubleshooting e controlli post-change."
+            }
+          ]
+        }
+      ],
+      "outcome": "Il consuntivo del 22 aprile documenta la messa in produzione e le verifiche. Non contiene un esito esplicito separato sulla risoluzione definitiva dell'errore certificati né misure di efficacia del WAF.",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/casi/2026-fortiweb-hardware-vm.md"
+    },
+    {
+      "id": "2026-fortigate-migrazioni",
+      "title": "Migrazioni verso FortiGate e gestione del rollback",
+      "year": "2026",
+      "period": "Gennaio–luglio 2026.",
+      "classification": "caso professionale anonimizzato.",
+      "status": "Interventi eseguiti; esiti separati per fase e ambiente, collaudo complessivo da confermare.",
+      "context": "Sostituzione di firewall e adattamento di configurazioni provenienti da altre piattaforme; più attività indipendenti.",
+      "activities": [
+        "Gennaio–febbraio: estrazione e porting CLI Zywall→FortiGate, installazione onsite, switchover, monitoraggio, pulizia configurazioni e test. Maggio–luglio: kickoff, startup hardware/software, configurazione e rack di FortiGate in due ambienti; prima migrazione e rollback di uno degli ambienti per flussi interni mancanti, quindi nuova migrazione e verifiche. Luglio: configurazione e installazione FortiGate da configurazione WatchGuard."
+      ],
+      "technologies": "",
+      "skills": "FortiGate, Zywall, WatchGuard, CLI, porting tra vendor, installazione, troubleshooting, verifiche e rollback.",
+      "sections": [
+        {
+          "title": "Contesto e obiettivo",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Sostituzione di firewall e adattamento di configurazioni provenienti da altre piattaforme; più attività indipendenti."
+            }
+          ]
+        },
+        {
+          "title": "Attività svolta",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Gennaio–febbraio: estrazione e porting CLI Zywall→FortiGate, installazione onsite, switchover, monitoraggio, pulizia configurazioni e test. Maggio–luglio: kickoff, startup hardware/software, configurazione e rack di FortiGate in due ambienti; prima migrazione e rollback di uno degli ambienti per flussi interni mancanti, quindi nuova migrazione e verifiche. Luglio: configurazione e installazione FortiGate da configurazione WatchGuard."
+            }
+          ]
+        },
+        {
+          "title": "Esito e limiti",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Un ambiente è indicato come migrato positivamente il 24 giugno; per l'altro è esplicito il rollback. Il 2 luglio risultano nuova migrazione, test e controlli; segue un meeting post-migrazione. Le altre attività attestano installazione e porting, senza un collaudo globale esplicito. Nessuna percentuale di successo o indisponibilità dedotta."
+            }
+          ]
+        },
+        {
+          "title": "Competenze documentate",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "FortiGate, Zywall, WatchGuard, CLI, porting tra vendor, installazione, troubleshooting, verifiche e rollback."
+            }
+          ]
+        }
+      ],
+      "outcome": "Un ambiente è indicato come migrato positivamente il 24 giugno; per l'altro è esplicito il rollback. Il 2 luglio risultano nuova migrazione, test e controlli; segue un meeting post-migrazione. Le altre attività attestano installazione e porting, senza un collaudo globale esplicito. Nessuna percentuale di successo o indisponibilità dedotta.",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/casi/2026-fortigate-migrazioni.md"
+    },
+    {
+      "id": "2026-fortigate-fsso-urlfiltering",
+      "title": "FortiGate: gruppi FSSO, ordine delle policy e URL filtering",
+      "year": "2026",
+      "period": "Ottobre 2026.",
+      "classification": "Caso professionale — troubleshooting collaborativo.",
+      "status": "Attività svolta; collaudo finale da confermare.",
+      "context": "Accessi web governati da gruppi di directory e identità FSSO. Verificare l'allineamento dei gruppi e la policy effettivamente applicata.",
+      "activities": [
+        "Verifica condivisa di report di login, gruppi, ordine delle policy e log.",
+        "Analisi di refresh/cache e del collector agent; richiesta di prove dopo aggiornamenti e riavvio del servizio.",
+        "Comunicazione dello stato e delle verifiche residue."
+      ],
+      "technologies": "FortiGate, FortiOS, FSSO, Active Directory, URL filtering, servizi Windows.",
+      "skills": "Diagnosi delle policy basate su identità, conduzione di prove in call, controllo degli esiti.",
+      "sections": [
+        {
+          "title": "Contesto e problema",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Accessi web governati da gruppi di directory e identità FSSO. Verificare l'allineamento dei gruppi e la policy effettivamente applicata."
+            }
+          ]
+        },
+        {
+          "title": "Attività svolta",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "Verifica condivisa di report di login, gruppi, ordine delle policy e log.",
+                "Analisi di refresh/cache e del collector agent; richiesta di prove dopo aggiornamenti e riavvio del servizio.",
+                "Comunicazione dello stato e delle verifiche residue."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tecnologie e competenze",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Tecnologie: FortiGate, FortiOS, FSSO, Active Directory, URL filtering, servizi Windows."
+            },
+            {
+              "type": "paragraph",
+              "text": "Competenze documentate: Diagnosi delle policy basate su identità, conduzione di prove in call, controllo degli esiti."
+            }
+          ]
+        },
+        {
+          "title": "Esito e limiti",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Controlli operativi e chiarimenti sul matching documentati. L'allineamento finale di tutti i gruppi e delle policy non è confermato."
+            }
+          ]
+        },
+        {
+          "title": "Intervento successivo documentato il 27 ottobre",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "L'export registra preparazione del change, aggiornamento FSSO e FortiGate, monitoraggio del traffico e analisi di un problema di navigazione con impostazione TCP-MSS. Conferma quindi anche un intervento di aggiornamento eseguito; non dichiara il suo collaudo finale né la risoluzione globale dei gruppi FSSO."
+            }
+          ]
+        }
+      ],
+      "outcome": "Controlli operativi e chiarimenti sul matching documentati. L'allineamento finale di tutti i gruppi e delle policy non è confermato.",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/casi/2026-fortigate-fsso-urlfiltering.md"
+    },
+    {
+      "id": "2026-clearpass-unifi-guest",
+      "title": "ClearPass e UniFi: flussi Guest e captive portal",
+      "year": "2026",
+      "period": "Settembre 2026.",
+      "classification": "Caso professionale — configurazione, analisi e prove.",
+      "status": "In corso; collaudo complessivo da confermare.",
+      "context": "Integrazione di rete Guest con autenticazione e riconnessione dei dispositivi. Coordinare redirect del portale, WebAuth, MAB/MAC caching e autorizzazione successiva al login.",
+      "activities": [
+        "Configurazione di apparati e SSID di test, analisi dei servizi RADIUS e delle policy.",
+        "Troubleshooting del percorso di redirect e dei parametri trasmessi al portale.",
+        "Definizione del flusso desiderato e richiesta di verifica sulle documentazioni ufficiali dei due vendor."
+      ],
+      "technologies": "Aruba ClearPass, UniFi/UDM Pro, RADIUS, captive portal, LDAP, CoA, MAC caching.",
+      "skills": "Analisi delle integrazioni tra vendor, progettazione di prove, distinzione tra requisito e funzione supportata.",
+      "sections": [
+        {
+          "title": "Contesto e problema",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Integrazione di rete Guest con autenticazione e riconnessione dei dispositivi. Coordinare redirect del portale, WebAuth, MAB/MAC caching e autorizzazione successiva al login."
+            }
+          ]
+        },
+        {
+          "title": "Attività svolta",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "Configurazione di apparati e SSID di test, analisi dei servizi RADIUS e delle policy.",
+                "Troubleshooting del percorso di redirect e dei parametri trasmessi al portale.",
+                "Definizione del flusso desiderato e richiesta di verifica sulle documentazioni ufficiali dei due vendor."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tecnologie e competenze",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Tecnologie: Aruba ClearPass, UniFi/UDM Pro, RADIUS, captive portal, LDAP, CoA, MAC caching."
+            },
+            {
+              "type": "paragraph",
+              "text": "Competenze documentate: Analisi delle integrazioni tra vendor, progettazione di prove, distinzione tra requisito e funzione supportata."
+            }
+          ]
+        },
+        {
+          "title": "Esito e limiti",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Configurazioni e analisi documentate; funzionamento completo del flusso end-to-end non confermato. Fallback automatico, chiamate API e riscritture proposte restano da validare."
+            }
+          ]
+        }
+      ],
+      "outcome": "Configurazioni e analisi documentate; funzionamento completo del flusso end-to-end non confermato. Fallback automatico, chiamate API e riscritture proposte restano da validare.",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/casi/2026-clearpass-unifi-guest.md"
+    },
+    {
+      "id": "2026-clearpass-paloalto-userid",
+      "title": "ClearPass e Palo Alto: normalizzazione delle identità",
+      "year": "2026",
+      "period": "Settembre–ottobre 2025, con ulteriore analisi discussa a ottobre 2026.",
+      "classification": "Caso professionale — analisi di integrazione.",
+      "status": "Analisi e correzione di un flusso di inoltro nel 2025; normalizzazione complessiva e ulteriore caso 2026 da confermare.",
+      "context": "Invio delle informazioni di login da ClearPass a firewall Palo Alto. Alcuni utenti arrivavano con un formato del nome differente rispetto a quello atteso dal firewall.",
+      "activities": [
+        "Raccolta dei formati osservati e confronto tra utenti/ambienti.",
+        "Verifica delle impostazioni già attive e analisi assistita del template di invio delle informazioni di login.",
+        "Nel resoconto 2026, individuazione assistita degli attributi da controllare; esecuzione delle verifiche correttive non confermata."
+      ],
+      "technologies": "Aruba ClearPass, Palo Alto User-ID, XML API, Active Directory.",
+      "skills": "Diagnosi dei mapping di identità, confronto attributi, verifica dei flussi di autenticazione.",
+      "sections": [
+        {
+          "title": "Contesto e problema",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Invio delle informazioni di login da ClearPass a firewall Palo Alto. Alcuni utenti arrivavano con un formato del nome differente rispetto a quello atteso dal firewall."
+            }
+          ]
+        },
+        {
+          "title": "Attività svolta",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "Raccolta dei formati osservati e confronto tra utenti/ambienti.",
+                "Verifica delle impostazioni già attive e analisi assistita del template di invio delle informazioni di login.",
+                "Nel resoconto 2026, individuazione assistita degli attributi da controllare; esecuzione delle verifiche correttive non confermata."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tecnologie e competenze",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Tecnologie: Aruba ClearPass, Palo Alto User-ID, XML API, Active Directory."
+            },
+            {
+              "type": "paragraph",
+              "text": "Competenze documentate: Diagnosi dei mapping di identità, confronto attributi, verifica dei flussi di autenticazione."
+            }
+          ]
+        },
+        {
+          "title": "Esito e limiti",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Per il resoconto 2026: analisi documentata, modifica correttiva e risultato non confermati. L'export documenta separatamente una modifica operativa nel 2025, descritta sotto."
+            }
+          ]
+        },
+        {
+          "title": "Evidenza operativa distinta del 2025",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Nelle note di settembre–ottobre 2025 risultano verifica dei mapping User-ID, analisi delle identità host e dei gruppi AD, controllo dell'invio via XML API e rimozione di profili che introducevano informazioni non pertinenti. Il 6 ottobre è annotato che i log con nome macchina non sono più presenti; il controllo User-ID prosegue l'8 ottobre."
+            },
+            {
+              "type": "paragraph",
+              "text": "Questo documenta una modifica eseguita e un effetto osservato nel 2025. Non dimostra automaticamente la soluzione della diversa anomalia di formato descritta nel resoconto 2026."
+            }
+          ]
+        }
+      ],
+      "outcome": "Per il resoconto 2026: analisi documentata, modifica correttiva e risultato non confermati. L'export documenta separatamente una modifica operativa nel 2025, descritta sotto.",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/casi/2026-clearpass-paloalto-userid.md"
+    },
+    {
+      "id": "2026-clearpass-ldap-sponsor",
+      "title": "ClearPass Guest: correzione del filtro LDAP per gli sponsor",
+      "year": "2026",
+      "period": "Settembre 2026.",
+      "classification": "Caso/ticket professionale — Delivery.",
+      "status": "Risolto secondo la conferma dell'utente.",
+      "context": "Ricerca degli sponsor Guest tramite Active Directory. Il lookup non restituiva il gruppo atteso per un Distinguished Name incompleto.",
+      "activities": [
+        "Duplicazione dell'Operator Server per isolare la differenza di configurazione.",
+        "Analisi del filtro memberOf e individuazione di una OU mancante nel DN.",
+        "Correzione e completamento della configurazione con un collega."
+      ],
+      "technologies": "Aruba ClearPass Guest, LDAP, Active Directory, Operator Server, Sponsor Lookup.",
+      "skills": "Troubleshooting LDAP, confronto controllato delle configurazioni, collaborazione tecnica.",
+      "sections": [
+        {
+          "title": "Contesto e problema",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Ricerca degli sponsor Guest tramite Active Directory. Il lookup non restituiva il gruppo atteso per un Distinguished Name incompleto."
+            }
+          ]
+        },
+        {
+          "title": "Attività svolta",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "Duplicazione dell'Operator Server per isolare la differenza di configurazione.",
+                "Analisi del filtro memberOf e individuazione di una OU mancante nel DN.",
+                "Correzione e completamento della configurazione con un collega."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tecnologie e competenze",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Tecnologie: Aruba ClearPass Guest, LDAP, Active Directory, Operator Server, Sponsor Lookup."
+            },
+            {
+              "type": "paragraph",
+              "text": "Competenze documentate: Troubleshooting LDAP, confronto controllato delle configurazioni, collaborazione tecnica."
+            }
+          ]
+        },
+        {
+          "title": "Esito e limiti",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "L'utente ha dichiarato conclusa la configurazione dopo la correzione del DN."
+            }
+          ]
+        }
+      ],
+      "outcome": "L'utente ha dichiarato conclusa la configurazione dopo la correzione del DN.",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/casi/2026-clearpass-ldap-sponsor.md"
+    },
+    {
+      "id": "2026-clearpass-hyperv-kvm",
+      "title": "ClearPass: migrazione da Hyper-V a KVM",
+      "year": "2026",
+      "period": "Settembre 2026.",
+      "classification": "Caso professionale — Delivery.",
+      "status": "Migrazione completata secondo i resoconti; problematica SMTP separata e aperta.",
+      "context": "Migrazione di appliance virtuali NAC verso un diverso hypervisor. Ripristinare configurazioni e servizi, gestendo errori di restore e verifiche di rete.",
+      "activities": [
+        "Restore su ClearPass 6.11.15 e analisi di un primo tentativo non riuscito.",
+        "Verifica di indirizzamento, duplicazioni ARP/proxy ARP, accesso GUI e attivazione licenze.",
+        "Comunicazione della migrazione dei nodi e dei controlli richiesti al monitoraggio.",
+        "Test SMTP e distinzione tra raggiungibilità del relay e rifiuto dovuto al content filtering."
+      ],
+      "technologies": "Aruba ClearPass, Hyper-V, KVM, backup/restore, ARP, SMTP.",
+      "skills": "Migrazione di appliance virtuali, recupero da restore fallito, diagnosi di dipendenze di rete.",
+      "sections": [
+        {
+          "title": "Contesto e problema",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Migrazione di appliance virtuali NAC verso un diverso hypervisor. Ripristinare configurazioni e servizi, gestendo errori di restore e verifiche di rete."
+            }
+          ]
+        },
+        {
+          "title": "Attività svolta",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "Restore su ClearPass 6.11.15 e analisi di un primo tentativo non riuscito.",
+                "Verifica di indirizzamento, duplicazioni ARP/proxy ARP, accesso GUI e attivazione licenze.",
+                "Comunicazione della migrazione dei nodi e dei controlli richiesti al monitoraggio.",
+                "Test SMTP e distinzione tra raggiungibilità del relay e rifiuto dovuto al content filtering."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tecnologie e competenze",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Tecnologie: Aruba ClearPass, Hyper-V, KVM, backup/restore, ARP, SMTP."
+            },
+            {
+              "type": "paragraph",
+              "text": "Competenze documentate: Migrazione di appliance virtuali, recupero da restore fallito, diagnosi di dipendenze di rete."
+            }
+          ]
+        },
+        {
+          "title": "Esito e limiti",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "GUI operativa e migrazione dei nodi dichiarate completate. Il rifiuto SMTP risultava ancora da gestire; non è presentato come risolto."
+            }
+          ]
+        }
+      ],
+      "outcome": "GUI operativa e migrazione dei nodi dichiarate completate. Il rifiuto SMTP risultava ancora da gestire; non è presentato come risolto.",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/casi/2026-clearpass-hyperv-kvm.md"
+    },
+    {
+      "id": "2026-clearpass-corporate-guest",
+      "title": "ClearPass: cluster NAC, certificati e accessi Corporate/Guest",
+      "year": "2026",
+      "period": "Febbraio–aprile 2026.",
+      "classification": "caso professionale anonimizzato.",
+      "status": "Cluster e servizi configurati; pilota eseguito, deploy Guest ancora in preparazione nell'ultima nota.",
+      "context": "Implementazione di servizi NAC per accessi wireless aziendali e Guest in collaborazione con il team Network.",
+      "activities": [
+        "Raccolta dei requisiti, analisi dei dispositivi di rete e delle dipendenze della piattaforma.",
+        "Creazione VM ClearPass e supporto alle policy di rete per la raggiungibilità del subscriber.",
+        "Supporto al template certificati Windows CA, firma dei certificati, join AD e formazione del cluster.",
+        "Predisposizione dei servizi e delle VLAN, test con il collega Network e pilota 802.1X/MAB su una sede.",
+        "Troubleshooting degli accessi Corporate e di magazzino; configurazione gruppi, sponsor e personalizzazione del portale Guest.",
+        "Raccolta delle criticità e preparazione del deploy Guest con il cliente."
+      ],
+      "technologies": "",
+      "skills": "ClearPass, RADIUS, 802.1X, MAB, AD, Windows CA, cluster, VLAN, Guest/sponsor e implementazione graduale.",
+      "sections": [
+        {
+          "title": "Contesto e obiettivo",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Implementazione di servizi NAC per accessi wireless aziendali e Guest in collaborazione con il team Network."
+            }
+          ]
+        },
+        {
+          "title": "Elementi di complessità",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Il progetto coinvolgeva piattaforma virtuale, raggiungibilità tra nodi, directory, certificati Windows CA, cluster, 802.1X/MAB, profili wireless e portale sponsor. La riuscita di un'autenticazione non dimostrava da sola il completamento del progetto."
+            }
+          ]
+        },
+        {
+          "title": "Contributo documentato di Matteo",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "Raccolta dei requisiti, analisi dei dispositivi di rete e delle dipendenze della piattaforma.",
+                "Creazione VM ClearPass e supporto alle policy di rete per la raggiungibilità del subscriber.",
+                "Supporto al template certificati Windows CA, firma dei certificati, join AD e formazione del cluster.",
+                "Predisposizione dei servizi e delle VLAN, test con il collega Network e pilota 802.1X/MAB su una sede.",
+                "Troubleshooting degli accessi Corporate e di magazzino; configurazione gruppi, sponsor e personalizzazione del portale Guest.",
+                "Raccolta delle criticità e preparazione del deploy Guest con il cliente."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Esito e limiti",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Le registrazioni confermano configurazioni, test pilota e attività Guest. Il 9 aprile documenta ancora preparazione del deploy e raccolta criticità: non si dichiara il completamento globale o il collaudo di tutte le sedi. È un caso distinto dagli altri progetti ClearPass presenti nel portfolio."
+            }
+          ]
+        },
+        {
+          "title": "Competenze dimostrate",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "ClearPass, RADIUS, 802.1X, MAB, AD, Windows CA, cluster, VLAN, Guest/sponsor e implementazione graduale."
+            }
+          ]
+        }
+      ],
+      "outcome": "Le registrazioni confermano configurazioni, test pilota e attività Guest. Il 9 aprile documenta ancora preparazione del deploy e raccolta criticità: non si dichiara il completamento globale o il collaudo di tutte le sedi. È un caso distinto dagli altri progetti ClearPass presenti nel portfolio.",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/casi/2026-clearpass-corporate-guest.md"
+    },
+    {
+      "id": "2026-cisco-asa-ha-arp",
+      "title": "Cisco ASA su Firepower: HA, MAC e ARP dopo upgrade",
+      "year": "2026",
+      "period": "Aprile 2026.",
+      "classification": "Caso professionale — troubleshooting post-change.",
+      "status": "Ripristino riportato; causa definitiva da confermare.",
+      "context": "Coppia Cisco Firepower con software ASA in alta affidabilità. Dopo upgrade e failback, l'interfaccia era raggiungibile ma i servizi con NAT statico non lo erano.",
+      "activities": [
+        "Ricostruzione della sequenza upgrade/failover/failback e confronto del comportamento dei nodi.",
+        "Distinzione tra funzionamento dell'HA e variazione del MAC con cache ARP upstream non aggiornata.",
+        "Analisi della mitigazione tramite pulizia ARP e richiesta di riscontri documentali sulla causa."
+      ],
+      "technologies": "Cisco ASA, Firepower, HA, MAC, ARP, NAT statico.",
+      "skills": "Analisi causale post-change, correlazione Layer 2/NAT, separazione tra osservazioni e ipotesi.",
+      "sections": [
+        {
+          "title": "Contesto e problema",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Coppia Cisco Firepower con software ASA in alta affidabilità. Dopo upgrade e failback, l'interfaccia era raggiungibile ma i servizi con NAT statico non lo erano."
+            }
+          ]
+        },
+        {
+          "title": "Attività svolta",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "Ricostruzione della sequenza upgrade/failover/failback e confronto del comportamento dei nodi.",
+                "Distinzione tra funzionamento dell'HA e variazione del MAC con cache ARP upstream non aggiornata.",
+                "Analisi della mitigazione tramite pulizia ARP e richiesta di riscontri documentali sulla causa."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tecnologie e competenze",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Tecnologie: Cisco ASA, Firepower, HA, MAC, ARP, NAT statico."
+            },
+            {
+              "type": "paragraph",
+              "text": "Competenze documentate: Analisi causale post-change, correlazione Layer 2/NAT, separazione tra osservazioni e ipotesi."
+            }
+          ]
+        },
+        {
+          "title": "Esito e limiti",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Ripristino dopo pulizia ARP riportato dall'utente. La causa legata al BIOS non è registrata come accertata in assenza di una conferma documentale."
+            }
+          ]
+        }
+      ],
+      "outcome": "Ripristino dopo pulizia ARP riportato dall'utente. La causa legata al BIOS non è registrata come accertata in assenza di una conferma documentale.",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/casi/2026-cisco-asa-ha-arp.md"
+    },
+    {
+      "id": "2026-cisco-asa-advisory",
+      "title": "Cisco ASA: verifica advisory, versioni e coerenza HA",
+      "year": "2026",
+      "period": "Maggio 2026.",
+      "classification": "Caso professionale — analisi di manutenzione e sicurezza.",
+      "status": "Analisi svolta; l'export documenta anche l'aggiornamento del secondario. Completamento dell'intero cluster da confermare.",
+      "context": "Valutazione di versioni ASA e servizi VPN esposti. Verificare l'applicabilità degli advisory e il disallineamento software tra nodi HA.",
+      "activities": [
+        "Consultazione del Cisco Software Checker e confronto delle release.",
+        "Controllo delle funzionalità VPN/WebVPN e raccolta di output per le verifiche richieste dagli advisory.",
+        "Segnalazione del disallineamento tra nodi e proposta di aggiornamento/allineamento."
+      ],
+      "technologies": "Cisco ASA, advisory Cisco/PSIRT, Software Checker, VPN, HA.",
+      "skills": "Valutazione documentata delle release, analisi dei prerequisiti, gestione delle evidenze incomplete.",
+      "sections": [
+        {
+          "title": "Contesto e problema",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Valutazione di versioni ASA e servizi VPN esposti. Verificare l'applicabilità degli advisory e il disallineamento software tra nodi HA."
+            }
+          ]
+        },
+        {
+          "title": "Attività svolta",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "Consultazione del Cisco Software Checker e confronto delle release.",
+                "Controllo delle funzionalità VPN/WebVPN e raccolta di output per le verifiche richieste dagli advisory.",
+                "Segnalazione del disallineamento tra nodi e proposta di aggiornamento/allineamento."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tecnologie e competenze",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Tecnologie: Cisco ASA, advisory Cisco/PSIRT, Software Checker, VPN, HA."
+            },
+            {
+              "type": "paragraph",
+              "text": "Competenze documentate: Valutazione documentata delle release, analisi dei prerequisiti, gestione delle evidenze incomplete."
+            }
+          ]
+        },
+        {
+          "title": "Esito e limiti",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Verifiche e proposta documentate nelle chat; l'export aggiunge un aggiornamento eseguito sul secondario (vedi integrazione). Aggiornamento finale dell'intero cluster non confermato. Un singolo controllo senza output non è assunto come prova di assenza di compromissione."
+            }
+          ]
+        },
+        {
+          "title": "Integrazione dall'export HDA",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Un consuntivo del 6 maggio 2026 documenta l'analisi di advisory ASA; il 21 maggio, nello stesso ticket dell'export, è registrato l'aggiornamento del firewall secondario alla release individuata, seguito da verifica dei servizi e monitoraggio. L'export aggiunge quindi una remediation eseguita su un nodo. Non conferma l'aggiornamento del primario né permette di estendere l'esito all'intero cluster o a tutti i casi discussi nelle chat."
+            },
+            {
+              "type": "paragraph",
+              "text": "Stato integrativo: analisi e aggiornamento del secondario eseguiti secondo consuntivo; completamento dell'intero cluster da confermare. Fonte, E16."
+            }
+          ]
+        }
+      ],
+      "outcome": "Verifiche e proposta documentate nelle chat; l'export aggiunge un aggiornamento eseguito sul secondario (vedi integrazione). Aggiornamento finale dell'intero cluster non confermato. Un singolo controllo senza output non è assunto come prova di assenza di compromissione.",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/casi/2026-cisco-asa-advisory.md"
+    },
+    {
+      "id": "2025-routing-connettivita",
+      "title": "Diagnostica del percorso e correzione di routing",
+      "year": "2025",
+      "period": "Gennaio 2025.",
+      "classification": "Caso/ticket professionale — Service.",
+      "status": "Intervento svolto; esito del servizio da confermare.",
+      "context": "Problema di raggiungibilità di una rete server attraverso firewall. Il flusso richiedeva verifica delle rotte lungo il percorso.",
+      "activities": [
+        "Verifica del flusso e individuazione di rotte mancanti.",
+        "Creazione di una rotta sul firewall del data center e richiesta di test di raggiungibilità."
+      ],
+      "technologies": "Palo Alto Networks, routing IP, analisi dei flussi.",
+      "skills": "Ricostruzione del percorso, analisi delle tabelle di routing, validazione mediante test.",
+      "sections": [
+        {
+          "title": "Contesto e problema",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Problema di raggiungibilità di una rete server attraverso firewall. Il flusso richiedeva verifica delle rotte lungo il percorso."
+            }
+          ]
+        },
+        {
+          "title": "Attività svolta",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "Verifica del flusso e individuazione di rotte mancanti.",
+                "Creazione di una rotta sul firewall del data center e richiesta di test di raggiungibilità."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tecnologie e competenze",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Tecnologie: Palo Alto Networks, routing IP, analisi dei flussi."
+            },
+            {
+              "type": "paragraph",
+              "text": "Competenze documentate: Ricostruzione del percorso, analisi delle tabelle di routing, validazione mediante test."
+            }
+          ]
+        },
+        {
+          "title": "Esito e limiti",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Modifica di routing dichiarata; risultato del test conclusivo non recuperato."
+            }
+          ]
+        }
+      ],
+      "outcome": "Modifica di routing dichiarata; risultato del test conclusivo non recuperato.",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/casi/2025-routing-connettivita.md"
+    },
+    {
+      "id": "2025-paloalto-ha-escalation",
+      "title": "Cluster Palo Alto: disservizi e gestione dell'escalation",
+      "year": "2025",
+      "period": "Aprile 2025.",
+      "classification": "Caso/ticket professionale — Service.",
+      "status": "Mitigazione/analisi svolte; soluzione definitiva da confermare.",
+      "context": "Cluster firewall con perdita pacchetti e indisponibilità di servizi. Anomalie di risorse e sessioni richiedevano raccolta dati e confronto con il supporto.",
+      "activities": [
+        "Analisi di packet loss inter-VLAN, log di risorse e sintomi di irraggiungibilità.",
+        "Applicazione di workaround mediante sospensione del nodo problematico e pulizia delle sessioni.",
+        "Coordinamento delle call, solleciti e richiesta di escalation al TAC; richiesta di spiegazioni e release correttive."
+      ],
+      "technologies": "PAN-OS, HA, log, sessioni, diagnostica di connettività.",
+      "skills": "Diagnosi per evidenze, valutazione dei limiti di un workaround, coordinamento con il supporto.",
+      "sections": [
+        {
+          "title": "Contesto e problema",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Cluster firewall con perdita pacchetti e indisponibilità di servizi. Anomalie di risorse e sessioni richiedevano raccolta dati e confronto con il supporto."
+            }
+          ]
+        },
+        {
+          "title": "Attività svolta",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "Analisi di packet loss inter-VLAN, log di risorse e sintomi di irraggiungibilità.",
+                "Applicazione di workaround mediante sospensione del nodo problematico e pulizia delle sessioni.",
+                "Coordinamento delle call, solleciti e richiesta di escalation al TAC; richiesta di spiegazioni e release correttive."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tecnologie e competenze",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Tecnologie: PAN-OS, HA, log, sessioni, diagnostica di connettività."
+            },
+            {
+              "type": "paragraph",
+              "text": "Competenze documentate: Diagnosi per evidenze, valutazione dei limiti di un workaround, coordinamento con il supporto."
+            }
+          ]
+        },
+        {
+          "title": "Esito e limiti",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Workaround e gestione dell'escalation documentati; causa definitiva e correzione software non confermate."
+            }
+          ]
+        }
+      ],
+      "outcome": "Workaround e gestione dell'escalation documentati; causa definitiva e correzione software non confermate.",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/casi/2025-paloalto-ha-escalation.md"
+    },
+    {
+      "id": "2025-paloalto-entra-saml",
+      "title": "Palo Alto ed Entra ID: accesso amministrativo e GlobalProtect",
+      "year": "2025",
+      "period": "Luglio–ottobre 2025.",
+      "classification": "caso professionale anonimizzato.",
+      "status": "Configurazioni implementate e accesso riportato funzionante; prove di logout documentate.",
+      "context": "Integrazione dell'identità Entra ID nell'infrastruttura Palo Alto per gli accessi previsti dal progetto, con attività anche su GlobalProtect.",
+      "activities": [
+        "Studio di fattibilità in laboratorio e documentazione dei passi da intraprendere.",
+        "Verifica delle limitazioni iniziali per l'accesso amministrativo e preparazione degli endpoint di autenticazione dei firewall.",
+        "Configurazione di Entra ID e degli apparati Palo Alto, oltre a regole GlobalProtect per gli accessi richiesti.",
+        "Test delle configurazioni, correzione di anomalie VPN e verifica della raggiungibilità dei servizi.",
+        "Modifica del comportamento SLO con POST e test di logout."
+      ],
+      "technologies": "",
+      "skills": "Microsoft Entra ID, Palo Alto, GlobalProtect, autenticazione federata, SAML/SLO, laboratorio, configurazione e verifica delle integrazioni.",
+      "sections": [
+        {
+          "title": "Contesto e obiettivo",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Integrazione dell'identità Entra ID nell'infrastruttura Palo Alto per gli accessi previsti dal progetto, con attività anche su GlobalProtect."
+            }
+          ]
+        },
+        {
+          "title": "Elementi di complessità",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Il lavoro comprende fattibilità in laboratorio, vincoli della configurazione Entra preesistente, configurazioni su più firewall, verifica degli endpoint di autenticazione e comportamento del Single Logout."
+            }
+          ]
+        },
+        {
+          "title": "Contributo documentato di Matteo",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "Studio di fattibilità in laboratorio e documentazione dei passi da intraprendere.",
+                "Verifica delle limitazioni iniziali per l'accesso amministrativo e preparazione degli endpoint di autenticazione dei firewall.",
+                "Configurazione di Entra ID e degli apparati Palo Alto, oltre a regole GlobalProtect per gli accessi richiesti.",
+                "Test delle configurazioni, correzione di anomalie VPN e verifica della raggiungibilità dei servizi.",
+                "Modifica del comportamento SLO con POST e test di logout."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Esito e limiti",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Il 1 ottobre il consuntivo indica accesso funzionante dopo le nuove configurazioni e registra i test del logout. Non specifica un collaudo di ogni firewall o di tutte le combinazioni di accesso: l'esito resta limitato alle prove riportate."
+            }
+          ]
+        },
+        {
+          "title": "Competenze dimostrate",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Microsoft Entra ID, Palo Alto, GlobalProtect, autenticazione federata, SAML/SLO, laboratorio, configurazione e verifica delle integrazioni."
+            }
+          ]
+        }
+      ],
+      "outcome": "Il 1 ottobre il consuntivo indica accesso funzionante dopo le nuove configurazioni e registra i test del logout. Non specifica un collaudo di ogni firewall o di tutte le combinazioni di accesso: l'esito resta limitato alle prove riportate.",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/casi/2025-paloalto-entra-saml.md"
+    },
+    {
+      "id": "2025-forticlient-certificati",
+      "title": "FortiClient: diagnosi di accesso VPN e certificati",
+      "year": "2025",
+      "period": "Marzo 2025.",
+      "classification": "Caso/ticket professionale — Service.",
+      "status": "Diagnostica svolta; esito finale da confermare.",
+      "context": "Utenti remoti con comportamenti differenti nell'accesso al portale VPN. Errori di collegamento con più versioni FortiClient, circoscritti a un gruppo di utenti.",
+      "activities": [
+        "Prove di raggiungibilità, confronto delle versioni client e test con il cliente.",
+        "Installazione del certificato sul PC e aggiornamento del certificato del portale.",
+        "Preparazione delle evidenze per il supporto: sintomi, versioni, prove e disponibilità di log."
+      ],
+      "technologies": "FortiClient, FortiGate, VPN SSL, certificati.",
+      "skills": "Troubleshooting dell'accesso remoto, gestione certificati, comunicazione con il vendor.",
+      "sections": [
+        {
+          "title": "Contesto e problema",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Utenti remoti con comportamenti differenti nell'accesso al portale VPN. Errori di collegamento con più versioni FortiClient, circoscritti a un gruppo di utenti."
+            }
+          ]
+        },
+        {
+          "title": "Attività svolta",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "Prove di raggiungibilità, confronto delle versioni client e test con il cliente.",
+                "Installazione del certificato sul PC e aggiornamento del certificato del portale.",
+                "Preparazione delle evidenze per il supporto: sintomi, versioni, prove e disponibilità di log."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tecnologie e competenze",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Tecnologie: FortiClient, FortiGate, VPN SSL, certificati."
+            },
+            {
+              "type": "paragraph",
+              "text": "Competenze documentate: Troubleshooting dell'accesso remoto, gestione certificati, comunicazione con il vendor."
+            }
+          ]
+        },
+        {
+          "title": "Esito e limiti",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Problema circoscritto e prove eseguite; risoluzione definitiva non confermata."
+            }
+          ]
+        }
+      ],
+      "outcome": "Problema circoscritto e prove eseguite; risoluzione definitiva non confermata.",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/casi/2025-forticlient-certificati.md"
+    },
+    {
+      "id": "2025-cisco-ise-distribuito",
+      "title": "Cisco ISE: upgrade distribuito, laboratorio e collaudo",
+      "year": "2025",
+      "period": "Ottobre–novembre 2025.",
+      "classification": "Caso professionale — Delivery.",
+      "status": "Completato secondo i resoconti dell'utente; hypercare avviato.",
+      "context": "Piattaforme NAC Corporate e Guest con nodi fisici e virtuali. Migrare alla versione ISE 3.4 patch 3 mantenendo controllato il passaggio dei servizi.",
+      "activities": [
+        "Definizione del piano per fasi, backup/restore e verifica preliminare in laboratorio.",
+        "Restore in LAB e prove di autenticazione wired/wireless, integrazione AD e alta affidabilità.",
+        "Reimage/upgrade dei nodi, sincronizzazione e integrazione con AD e SmartAccount.",
+        "Completamento successivo della VM Azure, verifica della sincronizzazione Intune–ISE e documentazione."
+      ],
+      "technologies": "Cisco ISE, PAN/PSN, RADIUS, Active Directory, SmartAccount, Azure, Intune.",
+      "skills": "Pianificazione di change distribuiti, validazione in LAB, integrazioni NAC e documentazione.",
+      "sections": [
+        {
+          "title": "Contesto e problema",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Piattaforme NAC Corporate e Guest con nodi fisici e virtuali. Migrare alla versione ISE 3.4 patch 3 mantenendo controllato il passaggio dei servizi."
+            }
+          ]
+        },
+        {
+          "title": "Attività svolta",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "Definizione del piano per fasi, backup/restore e verifica preliminare in laboratorio.",
+                "Restore in LAB e prove di autenticazione wired/wireless, integrazione AD e alta affidabilità.",
+                "Reimage/upgrade dei nodi, sincronizzazione e integrazione con AD e SmartAccount.",
+                "Completamento successivo della VM Azure, verifica della sincronizzazione Intune–ISE e documentazione."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tecnologie e competenze",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Tecnologie: Cisco ISE, PAN/PSN, RADIUS, Active Directory, SmartAccount, Azure, Intune."
+            },
+            {
+              "type": "paragraph",
+              "text": "Competenze documentate: Pianificazione di change distribuiti, validazione in LAB, integrazioni NAC e documentazione."
+            }
+          ]
+        },
+        {
+          "title": "Esito e limiti",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Completamento dei nodi Guest, poi dei nodi fisici Corporate e infine della VM Azure dichiarato nelle comunicazioni di novembre. Nessun impatto operativo segnalato nei resoconti recuperati."
+            }
+          ]
+        },
+        {
+          "title": "Sequenza operativa confermata dall'export HDA",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "L'export documenta anche la valutazione di compatibilità/bug e dei salti di versione, l'estrazione dei certificati Guest, il Gantt Corporate, i test wired/wireless con utente onsite e l'aggiornamento progressivo di nodi PAN/PSN distribuiti. Il 7 novembre risultano correzione del default gateway e portale Guest funzionante, oltre ai controlli di backup, licenze e sponsor. Il 27 novembre sono registrati creazione della VM Azure, patch, join al cluster e ad AD."
+            },
+            {
+              "type": "paragraph",
+              "text": "Perché è un caso complesso: piattaforme Corporate e Guest con dipendenze tra ruoli dei nodi, identità, certificati, servizi e infrastruttura cloud; validazione progressiva prima e durante il change."
+            }
+          ]
+        }
+      ],
+      "outcome": "Completamento dei nodi Guest, poi dei nodi fisici Corporate e infine della VM Azure dichiarato nelle comunicazioni di novembre. Nessun impatto operativo segnalato nei resoconti recuperati.",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/casi/2025-cisco-ise-distribuito.md"
+    },
+    {
+      "id": "2025-cisco-esa-smtp",
+      "title": "Cisco ESA: analisi del percorso SMTP e relay",
+      "year": "2025",
+      "period": "Ottobre 2025.",
+      "classification": "Caso/ticket professionale.",
+      "status": "Analisi svolta; intervento proposto.",
+      "context": "Consegna di messaggi da server di posta attraverso un gateway e-mail. Sessioni SMTP rifiutate o interrotte e comportamento differente tra sorgenti.",
+      "activities": [
+        "Confronto dei log relativi a traffico inbound e relay/outgoing.",
+        "Formulazione della proposta di aggiornamento della relaylist, subordinata alla conferma del ruolo e dell'attendibilità della sorgente."
+      ],
+      "technologies": "Cisco ESA, HCL Domino, SMTP, relaylist.",
+      "skills": "Lettura dei log SMTP, confronto dei percorsi e verifica dei prerequisiti di una modifica.",
+      "sections": [
+        {
+          "title": "Contesto e problema",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Consegna di messaggi da server di posta attraverso un gateway e-mail. Sessioni SMTP rifiutate o interrotte e comportamento differente tra sorgenti."
+            }
+          ]
+        },
+        {
+          "title": "Attività svolta",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "Confronto dei log relativi a traffico inbound e relay/outgoing.",
+                "Formulazione della proposta di aggiornamento della relaylist, subordinata alla conferma del ruolo e dell'attendibilità della sorgente."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tecnologie e competenze",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Tecnologie: Cisco ESA, HCL Domino, SMTP, relaylist."
+            },
+            {
+              "type": "paragraph",
+              "text": "Competenze documentate: Lettura dei log SMTP, confronto dei percorsi e verifica dei prerequisiti di una modifica."
+            }
+          ]
+        },
+        {
+          "title": "Esito e limiti",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Diagnosi e proposta documentate; modifica della relaylist e successiva consegna non confermate."
+            }
+          ]
+        }
+      ],
+      "outcome": "Diagnosi e proposta documentate; modifica della relaylist e successiva consegna non confermate.",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/casi/2025-cisco-esa-smtp.md"
+    },
+    {
+      "id": "2025-asa-memoria-hardening",
+      "title": "Cisco ASA: esaurimento memoria, laboratorio e hardening in produzione",
+      "year": "2025",
+      "period": "Novembre 2024 – febbraio 2025.",
+      "classification": "caso professionale anonimizzato.",
+      "status": "Hardening applicato in produzione; riduzione dell'uso memoria e login riusciti riportati.",
+      "context": "Firewall con esaurimento memoria e problemi del servizio VPN. Individuare una mitigazione applicabile alla versione in uso e verificarla prima dell'intervento sul servizio reale.",
+      "activities": [
+        "Raccolta log e tech-support, verifica del failover, analisi della documentazione e gestione dell'escalation Cisco.",
+        "Ricostruzione del problema su ASA di laboratorio con generazione controllata di richieste di autenticazione e confronto del consumo di risorse.",
+        "Prove delle misure suggerite dal vendor, identificazione delle opzioni incompatibili ed elaborazione di un action plan da discutere con il cliente.",
+        "Applicazione dell'hardening in produzione, test del portale e delle autenticazioni, pulizia richieste AAA e controllo dei tentativi mediante il sistema di logging del cliente."
+      ],
+      "technologies": "",
+      "skills": "Diagnosi delle risorse, sicurezza degli accessi VPN, validazione in laboratorio, compatibilità di versione, hardening, action plan ed escalation vendor.",
+      "sections": [
+        {
+          "title": "Contesto e obiettivo",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Firewall con esaurimento memoria e problemi del servizio VPN. Individuare una mitigazione applicabile alla versione in uso e verificarla prima dell'intervento sul servizio reale."
+            }
+          ]
+        },
+        {
+          "title": "Elementi di complessità",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Il dispositivo era già alla versione disponibile indicata dal supporto. Alcune opzioni di hardening non risultavano applicabili alla release del cliente: servivano riproduzione in laboratorio, confronto con TAC e controllo della compatibilità, oltre al monitoraggio operativo."
+            }
+          ]
+        },
+        {
+          "title": "Contributo documentato di Matteo",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "Raccolta log e tech-support, verifica del failover, analisi della documentazione e gestione dell'escalation Cisco.",
+                "Ricostruzione del problema su ASA di laboratorio con generazione controllata di richieste di autenticazione e confronto del consumo di risorse.",
+                "Prove delle misure suggerite dal vendor, identificazione delle opzioni incompatibili ed elaborazione di un action plan da discutere con il cliente.",
+                "Applicazione dell'hardening in produzione, test del portale e delle autenticazioni, pulizia richieste AAA e controllo dei tentativi mediante il sistema di logging del cliente."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Esito e limiti",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "La nota del 22 gennaio 2025 documenta diminuzione dell'uso memoria e autenticazioni riuscite dopo l'applicazione. Il confronto con Cisco prosegue fino al 6 febbraio. Non è quantificata la riduzione e non è attestata l'eliminazione definitiva di ogni causa di esaurimento memoria. Le prove controllate in laboratorio non sono presentate come penetration test del cliente."
+            }
+          ]
+        },
+        {
+          "title": "Competenze dimostrate",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Diagnosi delle risorse, sicurezza degli accessi VPN, validazione in laboratorio, compatibilità di versione, hardening, action plan ed escalation vendor."
+            }
+          ]
+        }
+      ],
+      "outcome": "La nota del 22 gennaio 2025 documenta diminuzione dell'uso memoria e autenticazioni riuscite dopo l'applicazione. Il confronto con Cisco prosegue fino al 6 febbraio. Non è quantificata la riduzione e non è attestata l'eliminazione definitiva di ogni causa di esaurimento memoria. Le prove controllate in laboratorio non sono presentate come penetration test del cliente.",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/casi/2025-asa-memoria-hardening.md"
+    },
+    {
+      "id": "2025-2026-clearpass-tacacs",
+      "title": "ClearPass: accessi amministrativi con TACACS+ e RADIUS",
+      "year": "2025",
+      "period": "2025–2026.",
+      "classification": "caso professionale anonimizzato.",
+      "status": "Configurazioni/test eseguiti; accesso funzionale attestato per il caso del 22/04/2026.",
+      "context": "Autenticazione e autorizzazione degli amministratori sugli apparati di rete.",
+      "activities": [
+        "Configurazione di service e dizionari TACACS+, prove RADIUS e profili di enforcement. Verifica dei flussi tra apparati e ClearPass, test con il cliente e configurazione di profili amministrativi read-only/custom. Una successiva attività del 2026 riporta configurazione TACACS, apertura dei flussi firewall e test di accesso."
+      ],
+      "technologies": "",
+      "skills": "ClearPass, TACACS+, RADIUS, Cisco ASA, switch, autenticazione e autorizzazione amministrativa.",
+      "sections": [
+        {
+          "title": "Contesto e obiettivo",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Autenticazione e autorizzazione degli amministratori sugli apparati di rete."
+            }
+          ]
+        },
+        {
+          "title": "Attività svolta",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Configurazione di service e dizionari TACACS+, prove RADIUS e profili di enforcement. Verifica dei flussi tra apparati e ClearPass, test con il cliente e configurazione di profili amministrativi read-only/custom. Una successiva attività del 2026 riporta configurazione TACACS, apertura dei flussi firewall e test di accesso."
+            }
+          ]
+        },
+        {
+          "title": "Esito e limiti",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Le attività del 2025 documentano configurazione e verifiche; il 22 aprile 2026 riporta esplicitamente accesso funzionale. Non si assume che si tratti dello stesso cliente né di un unico progetto continuativo."
+            }
+          ]
+        },
+        {
+          "title": "Competenze documentate",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "ClearPass, TACACS+, RADIUS, Cisco ASA, switch, autenticazione e autorizzazione amministrativa."
+            }
+          ]
+        },
+        {
+          "title": "Progetto 2026: verifiche e collaudo riportati",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Nel caso dell'accesso TACACS funzionale il 22 aprile, le registrazioni successive nello stesso ticket documentano correzioni Guest, preparazione delle configurazioni, documentazione e un incontro del 22 maggio con verifica Guest e conferma del collaudo. Il 12 giugno segue aggiornamento con hotfix e il 25 giugno ripristino del servizio Guest: il collaudo di maggio non implica assenza di successivi interventi."
+            }
+          ]
+        }
+      ],
+      "outcome": "Le attività del 2025 documentano configurazione e verifiche; il 22 aprile 2026 riporta esplicitamente accesso funzionale. Non si assume che si tratti dello stesso cliente né di un unico progetto continuativo.",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/casi/2025-2026-clearpass-tacacs.md"
+    },
+    {
+      "id": "2024-remediation-iaas",
+      "title": "Firewall IaaS: remediation di oggetti, policy e segmentazione",
+      "year": "2024",
+      "period": "Maggio–novembre 2024.",
+      "classification": "caso professionale anonimizzato.",
+      "status": "Fasi di remediation eseguite; documentazione conclusiva e punti residui registrati.",
+      "context": "Revisione di configurazioni firewall in ambiente IaaS con servizi in esercizio, insieme a colleghi e supervisor.",
+      "activities": [
+        "Revisione del piano operativo con colleghi e supervisor e predisposizione di nomenclatura e documentazione.",
+        "Bonifica e organizzazione di indirizzi, gruppi, servizi e profili; revisione policy e NAT con monitoraggio dopo l'abilitazione.",
+        "Intervento sulla suddivisione delle zone VPN e adeguamento delle regole di sicurezza/NAT per ripristinare i flussi previsti.",
+        "Controlli post-change su servizi e monitoraggio; gestione delle dipendenze con gli altri gruppi tecnici.",
+        "Attività su certificati e profili, decryption e autenticazione amministrativa; registrazione dei passi rinviati e degli aspetti da verificare."
+      ],
+      "technologies": "",
+      "skills": "Palo Alto, segmentazione, policy e NAT, gestione oggetti, controllo del change, analisi delle dipendenze, documentazione e coordinamento operativo.",
+      "sections": [
+        {
+          "title": "Contesto e obiettivo",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Revisione di configurazioni firewall in ambiente IaaS con servizi in esercizio, insieme a colleghi e supervisor."
+            }
+          ]
+        },
+        {
+          "title": "Elementi di complessità",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Modifiche interdipendenti su oggetti, security profile, policy, NAT e zone VPN richiedevano pianificazione dell'impatto. La rinomina di componenti VPN aveva evidenziato rischi di interruzione: non tutti i passi potevano essere applicati come semplice pulizia."
+            }
+          ]
+        },
+        {
+          "title": "Contributo documentato di Matteo",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "Revisione del piano operativo con colleghi e supervisor e predisposizione di nomenclatura e documentazione.",
+                "Bonifica e organizzazione di indirizzi, gruppi, servizi e profili; revisione policy e NAT con monitoraggio dopo l'abilitazione.",
+                "Intervento sulla suddivisione delle zone VPN e adeguamento delle regole di sicurezza/NAT per ripristinare i flussi previsti.",
+                "Controlli post-change su servizi e monitoraggio; gestione delle dipendenze con gli altri gruppi tecnici.",
+                "Attività su certificati e profili, decryption e autenticazione amministrativa; registrazione dei passi rinviati e degli aspetti da verificare."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Esito e limiti",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Il 18 ottobre è annotata la conclusione delle attività di remediation e della documentazione; il 18 novembre un successivo allineamento verifica punti sospesi e riscontri mancanti. Il caso documenta quindi esecuzione e controllo delle fasi, non la certificazione di conformità o la chiusura incondizionata di ogni punto."
+            }
+          ]
+        },
+        {
+          "title": "Competenze dimostrate",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Palo Alto, segmentazione, policy e NAT, gestione oggetti, controllo del change, analisi delle dipendenze, documentazione e coordinamento operativo."
+            }
+          ]
+        }
+      ],
+      "outcome": "Il 18 ottobre è annotata la conclusione delle attività di remediation e della documentazione; il 18 novembre un successivo allineamento verifica punti sospesi e riscontri mancanti. Il caso documenta quindi esecuzione e controllo delle fasi, non la certificazione di conformità o la chiusura incondizionata di ogni punto.",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/casi/2024-remediation-iaas.md"
+    },
+    {
+      "id": "2024-panos-upgrade-multisito",
+      "title": "PAN-OS: aggiornamento multisito e gestione delle anomalie post-change",
+      "year": "2024",
+      "period": "Marzo 2024.",
+      "classification": "caso professionale anonimizzato.",
+      "status": "Aggiornamenti eseguiti; recupero di un aggiornamento fallito e controlli sui servizi documentati.",
+      "context": "Aggiornamento di firewall distribuiti e cluster, coordinato con cliente e colleghi Delivery.",
+      "activities": [
+        "Analisi dello stato su Panorama, preparazione immagini e contenuti e pianificazione delle finestre con il cliente.",
+        "Upgrade per sede e per nodo, cambio di stato HA e monitoraggio del traffico sul nodo attivo.",
+        "Ripristino della funzionalità dopo un aggiornamento non riuscito, con tecnico onsite e apertura del case vendor.",
+        "Verifiche su latenza/BGP, sessioni SIP, VPN e matrice di compatibilità SD-WAN.",
+        "Nuovo tentativo di aggiornamento della sede interessata e riepilogo delle attività residue."
+      ],
+      "technologies": "",
+      "skills": "PAN-OS, Panorama, HA, VPN, BGP, SD-WAN, gestione versioni, diagnostica post-change e coordinamento multisito.",
+      "sections": [
+        {
+          "title": "Contesto e obiettivo",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Aggiornamento di firewall distribuiti e cluster, coordinato con cliente e colleghi Delivery."
+            }
+          ]
+        },
+        {
+          "title": "Elementi di complessità",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Il change coinvolgeva continuità delle sedi, VPN, contenuti dinamici, gestione centralizzata e compatibilità dei plugin SD-WAN. In corso d'opera sono comparsi un aggiornamento non riuscito, latenza con adiacenza BGP e sessioni SIP residue."
+            }
+          ]
+        },
+        {
+          "title": "Contributo documentato di Matteo",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "Analisi dello stato su Panorama, preparazione immagini e contenuti e pianificazione delle finestre con il cliente.",
+                "Upgrade per sede e per nodo, cambio di stato HA e monitoraggio del traffico sul nodo attivo.",
+                "Ripristino della funzionalità dopo un aggiornamento non riuscito, con tecnico onsite e apertura del case vendor.",
+                "Verifiche su latenza/BGP, sessioni SIP, VPN e matrice di compatibilità SD-WAN.",
+                "Nuovo tentativo di aggiornamento della sede interessata e riepilogo delle attività residue."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Esito e limiti",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Le note documentano l'esecuzione su più sedi e il successivo aggiornamento della sede inizialmente bloccata. Non permettono di dichiarare indisponibilità zero o un collaudo applicativo uniforme di tutte le sedi."
+            }
+          ]
+        },
+        {
+          "title": "Competenze dimostrate",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "PAN-OS, Panorama, HA, VPN, BGP, SD-WAN, gestione versioni, diagnostica post-change e coordinamento multisito."
+            }
+          ]
+        }
+      ],
+      "outcome": "Le note documentano l'esecuzione su più sedi e il successivo aggiornamento della sede inizialmente bloccata. Non permettono di dichiarare indisponibilità zero o un collaudo applicativo uniforme di tutte le sedi.",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/casi/2024-panos-upgrade-multisito.md"
+    },
+    {
+      "id": "2024-paloalto-certificati-e-monitoraggio",
+      "title": "Palo Alto: certificati e diagnostica SNMP",
+      "year": "2024",
+      "period": "Novembre–dicembre 2024.",
+      "classification": "Casi/ticket professionali — Service.",
+      "status": "Interventi/analisi svolti; esiti da confermare.",
+      "context": "Due interventi distinti di accessibilità applicativa e monitoraggio firewall. Errore di autenticazione di un sito e, in un altro caso, polling SNMP senza risposta sul nodo passivo.",
+      "activities": [
+        "Caricamento della catena certificati sul firewall e richiesta di prova di raggiungibilità.",
+        "Confronto tra trap funzionanti e polling non funzionante; raccolta degli esiti di riavvii e richiesta di conferma al supporto prima di ulteriori interventi."
+      ],
+      "technologies": "PAN-OS, catene di certificazione, SNMP, alta affidabilità.",
+      "skills": "Verifica di certificati, confronto di evidenze di monitoraggio, escalation tecnica.",
+      "sections": [
+        {
+          "title": "Contesto e problema",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Due interventi distinti di accessibilità applicativa e monitoraggio firewall. Errore di autenticazione di un sito e, in un altro caso, polling SNMP senza risposta sul nodo passivo."
+            }
+          ]
+        },
+        {
+          "title": "Attività svolta",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "Caricamento della catena certificati sul firewall e richiesta di prova di raggiungibilità.",
+                "Confronto tra trap funzionanti e polling non funzionante; raccolta degli esiti di riavvii e richiesta di conferma al supporto prima di ulteriori interventi."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tecnologie e competenze",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Tecnologie: PAN-OS, catene di certificazione, SNMP, alta affidabilità."
+            },
+            {
+              "type": "paragraph",
+              "text": "Competenze documentate: Verifica di certificati, confronto di evidenze di monitoraggio, escalation tecnica."
+            }
+          ]
+        },
+        {
+          "title": "Esito e limiti",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Attività diagnostiche dichiarate; chiusura definitiva dei due problemi non confermata."
+            }
+          ]
+        }
+      ],
+      "outcome": "Attività diagnostiche dichiarate; chiusura definitiva dei due problemi non confermata.",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/casi/2024-paloalto-certificati-e-monitoraggio.md"
+    },
+    {
+      "id": "2024-nac-radius",
+      "title": "NAC e richieste RADIUS anomale",
+      "year": "2024",
+      "period": "Giugno 2024.",
+      "classification": "Caso/ticket professionale — Service.",
+      "status": "Analisi svolta; esito da confermare.",
+      "context": "Servizi di autenticazione di rete e accesso Wi-Fi Guest. Timeout ClearPass e richieste RADIUS duplicate o sovrapposte su Cisco ISE.",
+      "activities": [
+        "Analisi dei log e presa in carico del problema di autenticazione Guest.",
+        "Distinzione tra errori osservati e possibili vincoli della VLAN; richiesta di verifiche sul rientro del disservizio."
+      ],
+      "technologies": "Aruba ClearPass, Cisco ISE, RADIUS, Wi-Fi Guest, VLAN.",
+      "skills": "Lettura log AAA, delimitazione del problema, raccolta di riscontri dal cliente.",
+      "sections": [
+        {
+          "title": "Contesto e problema",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Servizi di autenticazione di rete e accesso Wi-Fi Guest. Timeout ClearPass e richieste RADIUS duplicate o sovrapposte su Cisco ISE."
+            }
+          ]
+        },
+        {
+          "title": "Attività svolta",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "Analisi dei log e presa in carico del problema di autenticazione Guest.",
+                "Distinzione tra errori osservati e possibili vincoli della VLAN; richiesta di verifiche sul rientro del disservizio."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tecnologie e competenze",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Tecnologie: Aruba ClearPass, Cisco ISE, RADIUS, Wi-Fi Guest, VLAN."
+            },
+            {
+              "type": "paragraph",
+              "text": "Competenze documentate: Lettura log AAA, delimitazione del problema, raccolta di riscontri dal cliente."
+            }
+          ]
+        },
+        {
+          "title": "Esito e limiti",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Analisi e richieste di verifica documentate; risoluzione finale non confermata dalle evidenze recuperate."
+            }
+          ]
+        }
+      ],
+      "outcome": "Analisi e richieste di verifica documentate; risoluzione finale non confermata dalle evidenze recuperate.",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/casi/2024-nac-radius.md"
+    },
+    {
+      "id": "2024-globalprotect-frammentazione",
+      "title": "GlobalProtect e traffico voce: analisi di regressioni dopo upgrade",
+      "year": "2024",
+      "period": "Novembre 2023 – maggio 2024.",
+      "classification": "caso professionale anonimizzato.",
+      "status": "Diagnostica e modifica MTU eseguite; risultato applicativo finale non attestato.",
+      "context": "Anomalie di identificazione utenti e problemi di comunicazione voce attraverso accesso VPN, affrontati nello stesso ticket in fasi diverse.",
+      "activities": [
+        "Verifica User-ID e LDAP, raccolta TSF, confronto con supporto e colleghi Delivery sui prerequisiti dell'upgrade.",
+        "Backup e aggiornamento degli apparati coinvolti, con controllo di VPN e traffico successivo.",
+        "Packet capture lato VPN, analisi delle ritrasmissioni e confronto con i colleghi TLC sui percorsi verso il servizio voce.",
+        "Verifica dei limiti del firewall come punto di osservazione quando parte del traffico applicativo non lo attraversava.",
+        "Analisi delle evidenze di frammentazione dopo l'upgrade e applicazione di una modifica MTU sull'interfaccia tunnel."
+      ],
+      "technologies": "",
+      "skills": "Palo Alto, GlobalProtect, User-ID, LDAP, packet capture, MTU/frammentazione, diagnostica applicativa e collaborazione Network/Voice.",
+      "sections": [
+        {
+          "title": "Contesto e obiettivo",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Anomalie di identificazione utenti e problemi di comunicazione voce attraverso accesso VPN, affrontati nello stesso ticket in fasi diverse."
+            }
+          ]
+        },
+        {
+          "title": "Elementi di complessità",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Il percorso richiedeva separare identità/LDAP, versione firewall, traffico VPN e comportamento dell'applicazione voce. Un aggiornamento non poteva essere assunto automaticamente come risolutivo: le catture hanno guidato ulteriori verifiche."
+            }
+          ]
+        },
+        {
+          "title": "Contributo documentato di Matteo",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "Verifica User-ID e LDAP, raccolta TSF, confronto con supporto e colleghi Delivery sui prerequisiti dell'upgrade.",
+                "Backup e aggiornamento degli apparati coinvolti, con controllo di VPN e traffico successivo.",
+                "Packet capture lato VPN, analisi delle ritrasmissioni e confronto con i colleghi TLC sui percorsi verso il servizio voce.",
+                "Verifica dei limiti del firewall come punto di osservazione quando parte del traffico applicativo non lo attraversava.",
+                "Analisi delle evidenze di frammentazione dopo l'upgrade e applicazione di una modifica MTU sull'interfaccia tunnel."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Esito e limiti",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "La nota del 6 maggio documenta la conclusione diagnostica sulla frammentazione e l'impostazione MTU. Non riporta la conferma di risoluzione del cliente; non viene quindi dichiarato risolto l'intero ticket né ricondotto ogni sintomo a un'unica causa."
+            }
+          ]
+        },
+        {
+          "title": "Competenze dimostrate",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Palo Alto, GlobalProtect, User-ID, LDAP, packet capture, MTU/frammentazione, diagnostica applicativa e collaborazione Network/Voice."
+            }
+          ]
+        }
+      ],
+      "outcome": "La nota del 6 maggio documenta la conclusione diagnostica sulla frammentazione e l'impostazione MTU. Non riporta la conferma di risoluzione del cliente; non viene quindi dichiarato risolto l'intero ticket né ricondotto ogni sintomo a un'unica causa.",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/casi/2024-globalprotect-frammentazione.md"
+    },
+    {
+      "id": "2024-ftd-ripristino-rma",
+      "title": "Cisco Firepower: recupero del servizio, restore e sostituzione RMA",
+      "year": "2024",
+      "period": "Luglio–ottobre 2024.",
+      "classification": "caso professionale anonimizzato.",
+      "status": "Ripristino e sostituzione eseguiti; dispositivo sostitutivo operativo secondo consuntivo.",
+      "context": "Recuperare l'amministrazione e l'operatività di un firewall Firepower, gestendo errori di aggiornamento/restore e sostituzione dell'apparato.",
+      "activities": [
+        "Analisi dell'accesso da console e delle opzioni di recovery con TAC Cisco; predisposizione e configurazione di un ASA temporaneo.",
+        "Factory reset e recupero configurazione; diagnostica di routing asimmetrico con il cliente e verifiche sui servizi.",
+        "Reimage, prove di restore e aggiornamento per fasi dopo errori nelle procedure, con raccolta delle evidenze per il vendor.",
+        "Gestione RMA, sostituzione onsite, trasferimento licenze e verifiche ambientali sul nuovo dispositivo.",
+        "Estrazione backup e configurazione degli aggiornamenti ricorrenti a fine intervento."
+      ],
+      "technologies": "",
+      "skills": "Cisco FTD/FDM, ASA, backup/restore, reimage, upgrade path, RMA, licenze, troubleshooting e continuità tramite apparato temporaneo.",
+      "sections": [
+        {
+          "title": "Contesto e obiettivo",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Recuperare l'amministrazione e l'operatività di un firewall Firepower, gestendo errori di aggiornamento/restore e sostituzione dell'apparato."
+            }
+          ]
+        },
+        {
+          "title": "Elementi di complessità",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Il percorso ha richiesto un apparato temporaneo, più reimage con versioni intermedie, workaround vendor, migrazione delle licenze e verifiche dopo l'installazione. Un ulteriore problema termico sul sostitutivo ha richiesto una verifica separata."
+            }
+          ]
+        },
+        {
+          "title": "Contributo documentato di Matteo",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "Analisi dell'accesso da console e delle opzioni di recovery con TAC Cisco; predisposizione e configurazione di un ASA temporaneo.",
+                "Factory reset e recupero configurazione; diagnostica di routing asimmetrico con il cliente e verifiche sui servizi.",
+                "Reimage, prove di restore e aggiornamento per fasi dopo errori nelle procedure, con raccolta delle evidenze per il vendor.",
+                "Gestione RMA, sostituzione onsite, trasferimento licenze e verifiche ambientali sul nuovo dispositivo.",
+                "Estrazione backup e configurazione degli aggiornamenti ricorrenti a fine intervento."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Esito e limiti",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Il 26 settembre è registrato l'aggiornamento del dispositivo alla versione individuata. Il 1 ottobre sono documentati sostituzione e funzionamento del nuovo apparato dopo la rimozione dal rack per la verifica termica; il 3 ottobre backup e attività conclusive. Non si deduce una risoluzione definitiva del problema ambientale dell'armadio né un tempo di indisponibilità."
+            }
+          ]
+        },
+        {
+          "title": "Competenze dimostrate",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Cisco FTD/FDM, ASA, backup/restore, reimage, upgrade path, RMA, licenze, troubleshooting e continuità tramite apparato temporaneo."
+            }
+          ]
+        }
+      ],
+      "outcome": "Il 26 settembre è registrato l'aggiornamento del dispositivo alla versione individuata. Il 1 ottobre sono documentati sostituzione e funzionamento del nuovo apparato dopo la rimozione dal rack per la verifica termica; il 3 ottobre backup e attività conclusive. Non si deduce una risoluzione definitiva del problema ambientale dell'armadio né un tempo di indisponibilità.",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/casi/2024-ftd-ripristino-rma.md"
+    },
+    {
+      "id": "2024-fortimanager-upgrade",
+      "title": "Aggiornamento FortiManager",
+      "year": "2024",
+      "period": "Novembre 2024.",
+      "classification": "Caso professionale — manutenzione.",
+      "status": "Aggiornamento completato secondo il resoconto dell'utente.",
+      "context": "Piattaforma di gestione centralizzata dei firewall. Aggiornare il software e verificare il funzionamento dopo l'intervento.",
+      "activities": [
+        "Aggiornamento FortiManager alla release 7.2.8 dichiarato dall'utente.",
+        "Verifiche durante e dopo l'aggiornamento; comunicazione dell'esito e della prevista chiusura del ticket."
+      ],
+      "technologies": "FortiManager, manutenzione software, controlli post-change.",
+      "skills": "Manutenzione di sistemi di gestione centralizzata, validazione e comunicazione dell'esito.",
+      "sections": [
+        {
+          "title": "Contesto e problema",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Piattaforma di gestione centralizzata dei firewall. Aggiornare il software e verificare il funzionamento dopo l'intervento."
+            }
+          ]
+        },
+        {
+          "title": "Attività svolta",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "Aggiornamento FortiManager alla release 7.2.8 dichiarato dall'utente.",
+                "Verifiche durante e dopo l'aggiornamento; comunicazione dell'esito e della prevista chiusura del ticket."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Tecnologie e competenze",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Tecnologie: FortiManager, manutenzione software, controlli post-change."
+            },
+            {
+              "type": "paragraph",
+              "text": "Competenze documentate: Manutenzione di sistemi di gestione centralizzata, validazione e comunicazione dell'esito."
+            }
+          ]
+        },
+        {
+          "title": "Esito e limiti",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Aggiornamento e verifiche senza problemi dichiarati. L'effettiva chiusura amministrativa del ticket non è attestata."
+            }
+          ]
+        }
+      ],
+      "outcome": "Aggiornamento e verifiche senza problemi dichiarati. L'effettiva chiusura amministrativa del ticket non è attestata.",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/casi/2024-fortimanager-upgrade.md"
+    },
+    {
+      "id": "2024-clearpass-cluster-migrazione",
+      "title": "ClearPass: migrazione del cluster Guest e attivazione licenze offline",
+      "year": "2024",
+      "period": "Agosto–dicembre 2024.",
+      "classification": "caso professionale anonimizzato.",
+      "status": "Migrazione eseguita e termine attività comunicato; riscontri finali Wi-Fi richiesti.",
+      "context": "Passaggio dei servizi Guest a un nuovo cluster ClearPass, con coordinamento su infrastruttura virtuale e accesso wireless.",
+      "activities": [
+        "Stesura dell'action plan e raccolta di backup, certificati e licenze.",
+        "Creazione e test delle nuove VM, importazione della configurazione e join del subscriber al cluster.",
+        "Verifiche WLC/Meraki con collega NOC e predisposizione del piano di migrazione.",
+        "Gestione della correzione della licenza con supporto Aruba; attivazione offline, temporaneo distacco/rientro del nodo e verifica licenze.",
+        "Migrazione al nuovo cluster, monitoraggio richieste di accesso e test onsite del portale con correzione del certificato selezionato."
+      ],
+      "technologies": "",
+      "skills": "ClearPass, publisher/subscriber, backup/restore, VM, licenze offline, certificati Guest, RADIUS e gestione di errori durante la migrazione.",
+      "sections": [
+        {
+          "title": "Contesto e obiettivo",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Passaggio dei servizi Guest a un nuovo cluster ClearPass, con coordinamento su infrastruttura virtuale e accesso wireless."
+            }
+          ]
+        },
+        {
+          "title": "Elementi di complessità",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Backup e certificati, creazione publisher/subscriber, licenze offline e comportamento del captive portal dovevano essere gestiti insieme. Un'associazione errata di licenza Platform ha richiesto correzione con Aruba prima di proseguire."
+            }
+          ]
+        },
+        {
+          "title": "Contributo documentato di Matteo",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "Stesura dell'action plan e raccolta di backup, certificati e licenze.",
+                "Creazione e test delle nuove VM, importazione della configurazione e join del subscriber al cluster.",
+                "Verifiche WLC/Meraki con collega NOC e predisposizione del piano di migrazione.",
+                "Gestione della correzione della licenza con supporto Aruba; attivazione offline, temporaneo distacco/rientro del nodo e verifica licenze.",
+                "Migrazione al nuovo cluster, monitoraggio richieste di accesso e test onsite del portale con correzione del certificato selezionato."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Esito e limiti",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Il 29 novembre sono registrati migrazione, monitoraggio e chiusura del case Aruba; il 4 dicembre vengono richiesti riscontri sul Wi-Fi e dismissione della vecchia VM; il 5 dicembre è annotata la comunicazione di termine attività. Non viene inventato un riscontro finale del cliente non presente nelle note."
+            }
+          ]
+        },
+        {
+          "title": "Competenze dimostrate",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "ClearPass, publisher/subscriber, backup/restore, VM, licenze offline, certificati Guest, RADIUS e gestione di errori durante la migrazione."
+            }
+          ]
+        }
+      ],
+      "outcome": "Il 29 novembre sono registrati migrazione, monitoraggio e chiusura del case Aruba; il 4 dicembre vengono richiesti riscontri sul Wi-Fi e dismissione della vecchia VM; il 5 dicembre è annotata la comunicazione di termine attività. Non viene inventato un riscontro finale del cliente non presente nelle note.",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/casi/2024-clearpass-cluster-migrazione.md"
+    },
+    {
+      "id": "2023-firepower-reimage-ha",
+      "title": "Firepower: recupero dopo corruzione del database e ripristino HA",
+      "year": "2023",
+      "period": "Giugno–luglio 2023.",
+      "classification": "caso professionale anonimizzato.",
+      "status": "Firmware/configurazioni recuperati, deploy e configurazione HA riusciti; riconnessione finale richiesta al cliente.",
+      "context": "Recupero di una piattaforma Firepower dopo problemi del database interno e del failover, con coinvolgimento del supporto Cisco.",
+      "activities": [
+        "Analisi dei log del nodo primario e del failover, apertura del case e raccolta tech-support.",
+        "Preparazione del supporto di installazione con il tecnico onsite ed estrazione della configurazione.",
+        "Reinstallazione del firmware, restore e nuova registrazione allo Smart Licensing.",
+        "Diagnosi degli errori di deploy/HA e della dipendenza da certificati scaduti durante l'aggiornamento SRU.",
+        "Ripristino della catena di fiducia secondo la procedura individuata, aggiornamento dei contenuti, deploy e configurazione HA."
+      ],
+      "technologies": "",
+      "skills": "Firepower, reimage, backup/restore, certificati, Smart Licensing, aggiornamenti SRU, HA e troubleshooting con vendor.",
+      "sections": [
+        {
+          "title": "Contesto e obiettivo",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Recupero di una piattaforma Firepower dopo problemi del database interno e del failover, con coinvolgimento del supporto Cisco."
+            }
+          ]
+        },
+        {
+          "title": "Elementi di complessità",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Il ripristino ha richiesto recupero delle configurazioni, reinstallazione firmware, registrazione delle licenze e gestione di certificati che impedivano l'aggiornamento dei contenuti."
+            }
+          ]
+        },
+        {
+          "title": "Contributo documentato di Matteo",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "Analisi dei log del nodo primario e del failover, apertura del case e raccolta tech-support.",
+                "Preparazione del supporto di installazione con il tecnico onsite ed estrazione della configurazione.",
+                "Reinstallazione del firmware, restore e nuova registrazione allo Smart Licensing.",
+                "Diagnosi degli errori di deploy/HA e della dipendenza da certificati scaduti durante l'aggiornamento SRU.",
+                "Ripristino della catena di fiducia secondo la procedura individuata, aggiornamento dei contenuti, deploy e configurazione HA."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Esito e limiti",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Il 27 luglio registra aggiornamento SRU, deploy e configurazione HA senza problemi riscontrati; richiede al cliente di ricollegare i firewall e la connettività interna. Non si trasforma questa richiesta in prova del successivo collaudo applicativo completo."
+            }
+          ]
+        },
+        {
+          "title": "Competenze dimostrate",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Firepower, reimage, backup/restore, certificati, Smart Licensing, aggiornamenti SRU, HA e troubleshooting con vendor."
+            }
+          ]
+        }
+      ],
+      "outcome": "Il 27 luglio registra aggiornamento SRU, deploy e configurazione HA senza problemi riscontrati; richiede al cliente di ricollegare i firewall e la connettività interna. Non si trasforma questa richiesta in prova del successivo collaudo applicativo completo.",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/casi/2023-firepower-reimage-ha.md"
+    },
+    {
+      "id": "2023-clearpass-meraki-guest",
+      "title": "ClearPass e Meraki: correzione del flusso Guest",
+      "year": "2023",
+      "period": "Febbraio–marzo 2023.",
+      "classification": "caso professionale anonimizzato.",
+      "status": "Risolto secondo il consuntivo del flusso interessato.",
+      "context": "Richieste RADIUS non associate alla regola attesa e problemi del portale Guest.",
+      "activities": [
+        "Analisi delle richieste RADIUS e della documentazione; modifica del match Called-Station-ID e del portale. Verifica delle dipendenze di raggiungibilità e successiva modifica del flusso Guest in Click-through."
+      ],
+      "technologies": "",
+      "skills": "Aruba ClearPass, Cisco Meraki, RADIUS, Called-Station-ID, Guest, troubleshooting tra vendor.",
+      "sections": [
+        {
+          "title": "Contesto e obiettivo",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Richieste RADIUS non associate alla regola attesa e problemi del portale Guest."
+            }
+          ]
+        },
+        {
+          "title": "Attività svolta",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Analisi delle richieste RADIUS e della documentazione; modifica del match Called-Station-ID e del portale. Verifica delle dipendenze di raggiungibilità e successiva modifica del flusso Guest in Click-through."
+            }
+          ]
+        },
+        {
+          "title": "Esito e limiti",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Il consuntivo del 1 marzo indica che il problema è rientrato dopo la modifica Guest. Questo non attesta che ogni scenario 802.1X dell'ambiente sia stato collaudato."
+            }
+          ]
+        },
+        {
+          "title": "Competenze documentate",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Aruba ClearPass, Cisco Meraki, RADIUS, Called-Station-ID, Guest, troubleshooting tra vendor."
+            }
+          ]
+        }
+      ],
+      "outcome": "Il consuntivo del 1 marzo indica che il problema è rientrato dopo la modifica Guest. Questo non attesta che ogni scenario 802.1X dell'ambiente sia stato collaudato.",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/casi/2023-clearpass-meraki-guest.md"
+    },
+    {
+      "id": "2022-paloalto-rma-content",
+      "title": "Palo Alto: recupero del replacement bloccato dai Content Update",
+      "year": "2022",
+      "period": "Settembre–novembre 2022.",
+      "classification": "caso professionale anonimizzato.",
+      "status": "Installazione del contenuto compatibile, riallineamento PAN-OS e verifiche finali positive riportati.",
+      "context": "Sostituzione di un firewall con problema hardware in una sede remota; il replacement non consentiva l'allineamento software necessario.",
+      "activities": [
+        "Verifica degli allarmi hardware, raccolta TSF e gestione del processo RMA con il cliente.",
+        "Preparazione degli aggiornamenti e delle dipendenze App & Threat per l'allineamento con l'altro nodo.",
+        "Test di installazione dei contenuti e delle licenze, reset del replacement e raccolta delle evidenze sugli errori persistenti.",
+        "Escalation al partner e troubleshooting con il supporto Palo Alto.",
+        "Installazione di un contenuto storico fornito dal vendor, riallineamento PAN-OS e verifica dello stato."
+      ],
+      "technologies": "",
+      "skills": "PAN-OS, Dynamic Updates, dipendenze software/licenze, recovery, RMA, diagnostica ed escalation su sede remota.",
+      "sections": [
+        {
+          "title": "Contesto e obiettivo",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Sostituzione di un firewall con problema hardware in una sede remota; il replacement non consentiva l'allineamento software necessario."
+            }
+          ]
+        },
+        {
+          "title": "Elementi di complessità",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Il recupero ha coinvolto vincoli di contenuti/licenze, errori nelle directory di aggiornamento, tentativi di reset e coordinamento con tecnico onsite, partner e supporto Palo Alto."
+            }
+          ]
+        },
+        {
+          "title": "Contributo documentato di Matteo",
+          "blocks": [
+            {
+              "type": "list",
+              "items": [
+                "Verifica degli allarmi hardware, raccolta TSF e gestione del processo RMA con il cliente.",
+                "Preparazione degli aggiornamenti e delle dipendenze App & Threat per l'allineamento con l'altro nodo.",
+                "Test di installazione dei contenuti e delle licenze, reset del replacement e raccolta delle evidenze sugli errori persistenti.",
+                "Escalation al partner e troubleshooting con il supporto Palo Alto.",
+                "Installazione di un contenuto storico fornito dal vendor, riallineamento PAN-OS e verifica dello stato."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Esito e limiti",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Le note dell'11 novembre attestano installazione riuscita del contenuto fornito dal supporto, allineamento del firewall alla versione dell'altro nodo e rientro della problematica. È un intervento storico: non rappresenta una raccomandazione attuale sulle release da utilizzare."
+            }
+          ]
+        },
+        {
+          "title": "Competenze dimostrate",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "PAN-OS, Dynamic Updates, dipendenze software/licenze, recovery, RMA, diagnostica ed escalation su sede remota."
+            }
+          ]
+        }
+      ],
+      "outcome": "Le note dell'11 novembre attestano installazione riuscita del contenuto fornito dal supporto, allineamento del firewall alla versione dell'altro nodo e rientro della problematica. È un intervento storico: non rappresenta una raccomandazione attuale sulle release da utilizzare.",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/casi/2022-paloalto-rma-content.md"
+    },
+    {
+      "id": "2022-2025-email-security",
+      "title": "Sicurezza e-mail: analisi e tuning ESA/SMA",
+      "year": "2022",
+      "period": "2022–2025.",
+      "classification": "caso professionale anonimizzato.",
+      "status": "Attività operative ricorrenti; esiti specifici distinti.",
+      "context": "Richieste di analisi su posta bloccata, spoofing, phishing, URL e falsi positivi.",
+      "activities": [
+        "Verifica log, quarantena e content filter; analisi degli header e dei controlli di dominio. Confronto con cliente/vendor, raccolta campioni, tuning delle policy ed estrazione di report. Le registrazioni del 2025 includono gestione dei report e correzioni di policy antiphishing/GrayMail."
+      ],
+      "technologies": "",
+      "skills": "Cisco ESA/SMA, mail security, reputazione URL, quarantena, policy tuning e reporting.",
+      "sections": [
+        {
+          "title": "Contesto e obiettivo",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Richieste di analisi su posta bloccata, spoofing, phishing, URL e falsi positivi."
+            }
+          ]
+        },
+        {
+          "title": "Attività svolta",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Verifica log, quarantena e content filter; analisi degli header e dei controlli di dominio. Confronto con cliente/vendor, raccolta campioni, tuning delle policy ed estrazione di report. Le registrazioni del 2025 includono gestione dei report e correzioni di policy antiphishing/GrayMail."
+            }
+          ]
+        },
+        {
+          "title": "Esito e limiti",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Sono documentate analisi e modifiche operative. Non è disponibile un indicatore affidabile dell'efficacia complessiva o del numero di attacchi evitati."
+            }
+          ]
+        },
+        {
+          "title": "Competenze documentate",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Cisco ESA/SMA, mail security, reputazione URL, quarantena, policy tuning e reporting."
+            }
+          ]
+        },
+        {
+          "title": "Caso articolato del 2025: tuning antiphishing e reportistica",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Tra febbraio e agosto 2025, una sequenza nello stesso ticket documenta analisi congiunta dei campioni, creazione e tuning di content filter, distinzione dei messaggi inoltrati non malevoli, revisione della quarantena e correzioni GrayMail. Il contributo comprende estrazione dati da ESA/SMA, preparazione di report manuali/Excel e confronto con il supporto Cisco sui dati e sul comportamento del backend."
+            },
+            {
+              "type": "paragraph",
+              "text": "Elemento di complessità: controllare una casistica di phishing senza trattare come equivalenti tutti i messaggi con lo stesso contenuto, verificando falsi positivi ed evidenze con il cliente. Non è documentata una percentuale attendibile di efficacia."
+            }
+          ]
+        }
+      ],
+      "outcome": "Sono documentate analisi e modifiche operative. Non è disponibile un indicatore affidabile dell'efficacia complessiva o del numero di attacchi evitati.",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/casi/2022-2025-email-security.md"
+    },
+    {
+      "id": "2021-riverbed-connettivita",
+      "title": "Riverbed: connettività e ottimizzazione WAN",
+      "year": "2021",
+      "period": "Settembre–ottobre 2021.",
+      "classification": "caso professionale anonimizzato.",
+      "status": "Interventi eseguiti; ripristino riportato nei consuntivi.",
+      "context": "Disservizi di connettività e accesso ai file in ambiente con ottimizzazione WAN e firewall.",
+      "activities": [
+        "Analisi collegamenti e log, confronto con il supporto, raccolta system dump e upgrade RiOS. In una successiva attività: cattura pacchetti sul firewall e configurazione pass-through Riverbed."
+      ],
+      "technologies": "",
+      "skills": "Riverbed/RiOS, Palo Alto, packet capture, troubleshooting WAN, coordinamento vendor.",
+      "sections": [
+        {
+          "title": "Contesto e obiettivo",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Disservizi di connettività e accesso ai file in ambiente con ottimizzazione WAN e firewall."
+            }
+          ]
+        },
+        {
+          "title": "Attività svolta",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Analisi collegamenti e log, confronto con il supporto, raccolta system dump e upgrade RiOS. In una successiva attività: cattura pacchetti sul firewall e configurazione pass-through Riverbed."
+            }
+          ]
+        },
+        {
+          "title": "Esito e limiti",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Dopo l'upgrade la rete è indicata come funzionante; nel caso successivo è riportato il ripristino dell'accesso ai file. Le note si riferiscono a interventi distinti, non a un'unica causa accertata."
+            }
+          ]
+        },
+        {
+          "title": "Competenze documentate",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Riverbed/RiOS, Palo Alto, packet capture, troubleshooting WAN, coordinamento vendor."
+            }
+          ]
+        }
+      ],
+      "outcome": "Dopo l'upgrade la rete è indicata come funzionante; nel caso successivo è riportato il ripristino dell'accesso ai file. Le note si riferiscono a interventi distinti, non a un'unica causa accertata.",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/casi/2021-riverbed-connettivita.md"
+    }
+  ],
+  "metadata": {
+    "repository": "matiz311/HardSkill",
+    "branch": "main",
+    "sourceRevision": "4553ec5763b5e8c6f06072949d113e4bebf0975f",
+    "sourceCommittedAt": "2026-10-30T08:30:05Z",
+    "syncedAt": "2026-10-30T08:31:22.934Z",
+    "documentCount": 55,
+    "sourceUrl": "https://github.com/matiz311/HardSkill/commit/4553ec5763b5e8c6f06072949d113e4bebf0975f",
+    "methodologyUrl": "https://github.com/matiz311/HardSkill/blob/main/fonti/revisione-chat-2026-10-29.md"
+  },
+  "presentation": {
+    "schemaVersion": 1,
+    "locale": "it-IT",
+    "theme": {
+      "accent": "#70378b",
+      "accentSoft": "#f4eef8",
+      "paper": "#ffffff",
+      "background": "#f6f3f8"
+    },
+    "reference": {
+      "path": "Updated_Matteo Cannizzo.pdf",
+      "blobSha": "c1dd6f7a4434988e08d9b70ef96e55ba7ac4295a",
+      "documentDate": "2024-09-20",
+      "format": "Europass"
+    },
+    "profileExtras": {
+      "nationality": "Italiana",
+      "drivingLicense": "B",
+      "photo": "assets/profile.png"
+    },
+    "display": {
+      "featuredProjects": [
+        "winnat-ui",
+        "pa500-config-adapter",
+        "networksnapshots",
+        "triage",
+        "moira",
+        "carpedice",
+        "integrazioni-zapier-shopify-ed-excel"
+      ],
+      "projectLimit": 4,
+      "caseLimit": 6,
+      "printProjectLimit": 5
+    },
+    "labels": {
+      "documentTitle": "Curriculum vitae",
+      "navLabel": "Sezioni del curriculum",
+      "cvTab": "Curriculum",
+      "portfolioTab": "Portfolio e casi",
+      "presentation": "Presentazione",
+      "experience": "Esperienza lavorativa",
+      "education": "Istruzione e formazione",
+      "languages": "Competenze linguistiche",
+      "digital": "Competenze digitali",
+      "soft": "Competenze trasversali",
+      "projects": "Progetti",
+      "driving": "Patente di guida",
+      "nationality": "Nazionalità",
+      "location": "Sede",
+      "photoAlt": "Foto di {name} dal CV di riferimento",
+      "print": "Stampa / PDF",
+      "refresh": "Ricarica dati",
+      "refreshing": "Aggiornamento…",
+      "updated": "Contenuti aggiornati al {date}",
+      "source": "Dati da GitHub",
+      "repository": "Repository HardSkill",
+      "openProfile": "Apri il profilo {name}",
+      "current": "In corso",
+      "periodUnspecified": "Durante il percorso scolastico",
+      "caseArchive": "Casi tecnici documentati",
+      "caseCount": "{count} schede",
+      "projectCount": "{count} progetti e laboratori",
+      "search": "Cerca una tecnologia o un’attività…",
+      "searchLabel": "Cerca nei casi tecnici",
+      "clearSearch": "Cancella ricerca",
+      "yearFilter": "Filtra per anno",
+      "allYears": "Tutti gli anni",
+      "allCases": "Mostra tutti i casi ({count})",
+      "lessCases": "Mostra meno casi",
+      "allProjects": "Mostra tutti i progetti ({count})",
+      "lessProjects": "Mostra i progetti in evidenza",
+      "projectDetails": "Descrizione e stato",
+      "projectStatus": "Stato del progetto",
+      "readCase": "Attività ed esito",
+      "close": "Chiudi scheda",
+      "context": "Contesto e problema",
+      "activities": "Attività svolta",
+      "technologies": "Tecnologie e ambiti",
+      "outcome": "Esito e limiti",
+      "documentedSkills": "Competenze documentate",
+      "status": "Stato",
+      "classification": "Classificazione",
+      "evidence": "Evidenza collegata",
+      "noResults": "Nessun caso trovato",
+      "noResultsHint": "Prova un’altra tecnologia o rimuovi il filtro per anno.",
+      "resetFilters": "Rimuovi i filtri",
+      "printSource": "Fonte: {repository} · revisione {revision}",
+      "lastSync": "Ultima generazione: {date}",
+      "reloadFailed": "Non è stato possibile ricaricare i dati. Restano visibili gli ultimi contenuti disponibili.",
+      "reloadSuccess": "I dati della pagina sono aggiornati all’ultima versione pubblicata.",
+      "loading": "Caricamento dei dati del curriculum…"
+    },
+    "notices": {
+      "skills": "Le competenze indicano ambiti documentati. Uso operativo, formazione e progetti personali sono distinti nelle fonti.",
+      "projects": "Per i progetti recenti, contributo personale, supporto AI e stato sono descritti nelle relative schede.",
+      "cases": "I casi sono anonimizzati. Attività svolte, proposte e risultati da confermare conservano lo stato riportato nelle fonti.",
+      "footer": "I testi del curriculum, le sezioni e le etichette provengono dai dati versionati in HardSkill. Le modifiche alla repository generano una nuova versione della pagina."
+    }
+  }
+}
