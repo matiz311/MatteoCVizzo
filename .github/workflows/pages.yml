@@ -1,0 +1,43 @@
+name: Pubblica il CV
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Recupera i file pubblici
+        uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+      - name: Prepara soltanto gli otto file del sito
+        shell: bash
+        run: |
+          mkdir -p _site/assets _site/data
+          cp .nojekyll index.html app.mjs render.mjs style.css _site/
+          cp assets/profile.png assets/favicon.svg _site/assets/
+          cp data/cv.json _site/data/
+      - name: Configura Pages
+        uses: actions/configure-pages@v5
+      - name: Prepara l'artefatto
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+      - name: Pubblica
+        id: deployment
+        uses: actions/deploy-pages@v4
