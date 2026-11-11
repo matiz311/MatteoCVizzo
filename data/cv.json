@@ -436,6 +436,15 @@
       "status": null
     },
     {
+      "id": "initrepo",
+      "name": "InitRepo",
+      "category": "Progetti software e creativi",
+      "summary": "repository personale introdotta l'11 novembre 2026 come baseline versionata per bootstrap e governance delle repository: struttura documentale, collaborazione multi-agent, branch/PR e merge gate, triage issue, test/CI, versioning e release, gestione segreti, change management e template riutilizzabili.",
+      "url": "https://github.com/matiz311/InitRepo",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/progetti-personali.md",
+      "status": null
+    },
+    {
       "id": "ricercacasa",
       "name": "RicercaCasa",
       "category": "Progetti software e creativi",
@@ -2900,11 +2909,11 @@
   "metadata": {
     "repository": "matiz311/HardSkill",
     "branch": "main",
-    "sourceRevision": "a4fcd4d22e7afe87eed46b44d2a987409402d11c",
-    "sourceCommittedAt": "2026-11-11T14:31:49+01:00",
-    "syncedAt": "2026-11-11T13:31:58.456Z",
+    "sourceRevision": "a65c8097dc237b0b32dcedadc572bc708e0bedb4",
+    "sourceCommittedAt": "2026-11-11T14:44:28+01:00",
+    "syncedAt": "2026-11-11T13:44:37.162Z",
     "documentCount": 55,
-    "sourceUrl": "https://github.com/matiz311/HardSkill/commit/a4fcd4d22e7afe87eed46b44d2a987409402d11c",
+    "sourceUrl": "https://github.com/matiz311/HardSkill/commit/a65c8097dc237b0b32dcedadc572bc708e0bedb4",
     "methodologyUrl": "https://github.com/matiz311/HardSkill/blob/main/fonti/revisione-chat-2026-10-29.md"
   },
   "presentation": {
