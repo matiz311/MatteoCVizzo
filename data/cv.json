@@ -382,6 +382,15 @@
       "status": "applicazione e distribuzione binaria documentate; il README segnala collaudi interattivi Windows ancora necessari. La numerazione della release non è ricopiata perché il README contiene indicazioni non allineate."
     },
     {
+      "id": "similprtg",
+      "name": "similPRTG",
+      "category": "Reti e sicurezza",
+      "summary": "progetto personale in fase di impostazione (novembre 2026) per il monitoraggio attivo, configurabile e in sola lettura di dispositivi di rete durante aggiornamenti e migrazioni. Repository inizializzata e setup collaborativo per agenti AI proposto in PR; funzioni di monitoraggio non ancora implementate.",
+      "url": "https://github.com/matiz311/similPRTG",
+      "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/progetti-personali.md",
+      "status": null
+    },
+    {
       "id": "networksnapshots",
       "name": "NetworkSnapshots",
       "category": "Reti e sicurezza",
@@ -2891,11 +2900,11 @@
   "metadata": {
     "repository": "matiz311/HardSkill",
     "branch": "main",
-    "sourceRevision": "d76596e40831d41b30617e0dc98aaafebfd5702e",
-    "sourceCommittedAt": "2026-11-06T17:26:55+01:00",
-    "syncedAt": "2026-11-06T16:27:06.011Z",
+    "sourceRevision": "a4fcd4d22e7afe87eed46b44d2a987409402d11c",
+    "sourceCommittedAt": "2026-11-11T14:31:49+01:00",
+    "syncedAt": "2026-11-11T13:31:58.456Z",
     "documentCount": 55,
-    "sourceUrl": "https://github.com/matiz311/HardSkill/commit/d76596e40831d41b30617e0dc98aaafebfd5702e",
+    "sourceUrl": "https://github.com/matiz311/HardSkill/commit/a4fcd4d22e7afe87eed46b44d2a987409402d11c",
     "methodologyUrl": "https://github.com/matiz311/HardSkill/blob/main/fonti/revisione-chat-2026-10-29.md"
   },
   "presentation": {
