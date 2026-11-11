@@ -385,7 +385,7 @@
       "id": "similprtg",
       "name": "similPRTG",
       "category": "Reti e sicurezza",
-      "summary": "progetto personale in fase di impostazione (novembre 2026) per il monitoraggio attivo, configurabile e in sola lettura di dispositivi di rete durante aggiornamenti e migrazioni. Repository inizializzata e setup collaborativo per agenti AI proposto in PR; funzioni di monitoraggio non ancora implementate.",
+      "summary": "progetto personale in fase di impostazione (novembre 2026) per il monitoraggio attivo, configurabile e in sola lettura di dispositivi di rete durante aggiornamenti e migrazioni. Matteo ha definito il caso d’uso e richiesto il modello di versioning di WinNAT-UI. Setup collaborativo e tracciabilità delle build per versione, run e commit integrati con assistenza AI. Metadati di build verificati in GitHub Actions su main. Motore di monitoraggio da implementare.",
       "url": "https://github.com/matiz311/similPRTG",
       "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/progetti/progetti-personali.md",
       "status": null
@@ -2909,11 +2909,11 @@
   "metadata": {
     "repository": "matiz311/HardSkill",
     "branch": "main",
-    "sourceRevision": "a65c8097dc237b0b32dcedadc572bc708e0bedb4",
-    "sourceCommittedAt": "2026-11-11T14:44:28+01:00",
-    "syncedAt": "2026-11-11T13:44:37.162Z",
+    "sourceRevision": "f7fa9ed9c61d85f12fbf9b714661b670171109d2",
+    "sourceCommittedAt": "2026-11-11T14:56:34+01:00",
+    "syncedAt": "2026-11-11T13:56:42.869Z",
     "documentCount": 55,
-    "sourceUrl": "https://github.com/matiz311/HardSkill/commit/a65c8097dc237b0b32dcedadc572bc708e0bedb4",
+    "sourceUrl": "https://github.com/matiz311/HardSkill/commit/f7fa9ed9c61d85f12fbf9b714661b670171109d2",
     "methodologyUrl": "https://github.com/matiz311/HardSkill/blob/main/fonti/revisione-chat-2026-10-29.md"
   },
   "presentation": {
