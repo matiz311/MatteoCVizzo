@@ -82,6 +82,7 @@
         "Migrazione di configurazioni XML e verifica di compatibilità.",
         "GlobalProtect e VPN IPsec; analisi di interfacce, routing e NAT.",
         "Aggiornamenti software e verifiche pre/post intervento.",
+        "Verifica dell’associazione e della decorrenza dei rinnovi nel Customer Support Portal, con confronto delle scadenze visualizzate in PAN-OS.",
         "Esperienza su PA-220/440/460/820/1410/1420/3430/3250 e serie PA-500 nell’ambito di analisi e migrazioni."
       ],
       "sourceUrl": "https://github.com/matiz311/HardSkill/blob/main/competenze/network-security.md"
@@ -2909,11 +2910,11 @@
   "metadata": {
     "repository": "matiz311/HardSkill",
     "branch": "main",
-    "sourceRevision": "fc58d4bba2bdd14ec4ad7e4236a86cb3f5f1719f",
-    "sourceCommittedAt": "2026-11-11T22:06:22+01:00",
-    "syncedAt": "2026-11-11T21:06:38.811Z",
+    "sourceRevision": "ff9e6f46985ea89fe76d2b2ed94011bb5962453d",
+    "sourceCommittedAt": "2026-11-12T09:44:24+01:00",
+    "syncedAt": "2026-11-12T08:44:34.062Z",
     "documentCount": 55,
-    "sourceUrl": "https://github.com/matiz311/HardSkill/commit/fc58d4bba2bdd14ec4ad7e4236a86cb3f5f1719f",
+    "sourceUrl": "https://github.com/matiz311/HardSkill/commit/ff9e6f46985ea89fe76d2b2ed94011bb5962453d",
     "methodologyUrl": "https://github.com/matiz311/HardSkill/blob/main/fonti/revisione-chat-2026-10-29.md"
   },
   "presentation": {
